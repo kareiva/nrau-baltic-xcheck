@@ -105,21 +105,21 @@ def match_exch(my_qso, other_qso, log):
     other_tx_exch = other_qso.de_exch
     # match RST:
     if len(my_tx_exch) != 3:
-        log.write("X-QSO-error: 0pt: Incomplete TX message:\n" + str(my_exch))
+        log.write("0\t(Incomplete TX message: {:s})".format(str(my_exch)))
         return 0
     if len(other_rx_exch) != 3:
-        log.write("X-QSO-error: 0pt: Incomplete RX message:\n" + str(my_exch))
+        log.write("0\t(Incomplete RX message: {:s})".format(str(my_exch)))
         return 0
     if my_tx_exch[0] != other_rx_exch[0]:
         log.write(
-            "X-QSO-error: 1pt: TX RST mismatch: sent as {:s}, received as {:s}:\n".format(
+            "1\t(TX RST mismatch: sent as {:s}, received as {:s})".format(
                 my_tx_exch[0], other_rx_exch[0]
             )
         )
         return 1
     if my_rx_exch[0] != other_tx_exch[0]:
         log.write(
-            "X-QSO-error: 1pt: RX RST mismatch: sent as {:s}, received as {:s}:\n".format(
+            "1\t(RX RST mismatch: sent as {:s}, received as {:s})".format(
                 other_tx_exch[0], my_rx_exch[0]
             )
         )
@@ -127,7 +127,7 @@ def match_exch(my_qso, other_qso, log):
     # match number:
     if int(my_rx_exch[1]) != int(other_tx_exch[1]):
         log.write(
-            "X-QSO-error: 1pt: Numbering mismatch: {:s} copied as {:s}:\n".format(
+            "1\t(Numbering mismatch: {:s} copied as {:s})".format(
                 my_rx_exch[1], other_tx_exch[1]
             )
         )
@@ -136,7 +136,7 @@ def match_exch(my_qso, other_qso, log):
     # match county:
     if my_rx_exch[2] != other_tx_exch[2]:
         log.write(
-            "X-QSO-error: 1pt: County mismatch: {:s} copied as {:s}\n".format(
+            "1\t(County mismatch: {:s} copied as {:s})".format(
                 other_tx_exch[2], my_rx_exch[2]
             )
         )
@@ -158,30 +158,26 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
         if shadow_stations[other_callsign][my_qso.mo + "_count"] >= 10:
             if my_qso.dx_exch[2] not in counties[cic.get_country_name(my_qso.dx_call)]:
                 log.write(
-                    "X-QSO-error: No county {:s} in {:s}\n".format(
+                    "0\t(No county {:s} in {:s})".format(
                         my_qso.dx_exch[2], cic.get_country_name(my_qso.dx_call)
                     )
                 )
                 return 0
             log.write(
-                "X-QSO-error: {:s} 1pt: Found 10+ QSOs of station {:s}:\n".format(
-                    my_qso.mo, other_callsign
-                )
+                "1\t(Found 10+ QSOs of station {:s})".format(my_qso.mo, other_callsign)
             )
             return 1
         else:
-            log.write(
-                "X-QSO-error: {:s} 0pt: Log not received from {:s}:\n".format(
-                    my_qso.mo, other_callsign
-                )
-            )
+            log.write("0\t(Log not received from {:s})".format(other_callsign))
             return 0
 
     other_qso = find_qso(contest, other_callsign, my_qso.de_call, my_qso.freq[0], run)
 
+    # TODO: check for similar time/exchange for errors in dx call
+    # (this does not impact the result, just explains the case in UBN)
     if not other_qso:
         log.write(
-            "X-QSO-error: {:s} 0pt: QSO not found in {:s}'s log:\n".format(
+            "0\t(QSO not found in {:s}'s log)".format(
                 my_qso.mo,
                 other_callsign,
             )
@@ -194,11 +190,7 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
         or (my_freq >= 7010 and my_freq <= 7060)
         or my_freq == 7000
     ):
-        log.write(
-            "X-QSO-error: 0pt: CW QSO frequency {:d} out of contest band:\n".format(
-                my_freq
-            )
-        )
+        log.write("0\t(CW QSO frequency {:d} out of contest band)".format(my_freq))
         return 0
 
     if my_qso.mo == "PH" and not (
@@ -209,11 +201,7 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
         or (my_freq >= 7130 and my_freq <= 7200)
         or my_freq == 7000
     ):
-        log.write(
-            "X-QSO-error: 0pt: PH QSO frequency {:d} out of contest band:\n".format(
-                my_freq
-            )
-        )
+        log.write("0\t(PH QSO frequency {:d} out of contest band)".format(my_freq))
         return 0
 
     # check for possible dupes or repeated qsos
@@ -271,7 +259,10 @@ def loop_all(filepath):
                 shadow_stations[qso.dx_call][qso.mo + "_count"] += 1
 
         for qso in qsos:
+            log.write(str(qso) + "\t")
             points = match_nrau(contest, qso, qso.dx_call, log)
+            if points == 2:
+                log.write("2")
             if points > 0:
                 county = qso.dx_exch[2]
                 mult_ok = True
@@ -287,16 +278,18 @@ def loop_all(filepath):
                     results[call]["points_40m"] += points
                     if mult_ok and county not in results[call]["mults_40m"]:
                         results[call]["mults_40m"].append(county)
+                        log.write("\t+{:s}".format(county))
                 if qso.freq[0] == "3":
                     results[call]["qso_count_80m"] += 1
                     results[call]["points_80m"] += points
                     if mult_ok and county not in results[call]["mults_80m"]:
                         results[call]["mults_80m"].append(county)
+                        log.write("\t+{:s}".format(county))
 
             if points < 2:
                 mistakes += 1
                 qso.valid = False
-            log.write(str(qso) + "\n")
+            log.write("\n")
         log.close()
     return results
 
