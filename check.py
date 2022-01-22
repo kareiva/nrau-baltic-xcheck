@@ -25,6 +25,7 @@ nqso = 0
 nfiles = 0
 mistakes = 0
 logext = ".txt"
+ubnext = ".ubn"
 max_time_delta = 3
 shadow_stations = {}
 
@@ -244,7 +245,7 @@ def loop_all(filepath):
             checklog=metadata[call]["checklog"],
         )
 
-        log = open(filepath + call + ".log", "w+")
+        log = open(filepath + call + ubnext , "w+")
         for qso in qsos:
             if not qso.dx_call in contest:
                 if not qso.dx_call in shadow_stations:
