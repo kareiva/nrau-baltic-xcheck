@@ -177,12 +177,7 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
     # TODO: check for similar time/exchange for errors in dx call
     # (this does not impact the result, just explains the case in UBN)
     if not other_qso:
-        log.write(
-            "0\t(QSO not found in {:s}'s log)".format(
-                my_qso.mo,
-                other_callsign,
-            )
-        )
+        log.write("0\t(QSO not found in {:s}'s log)".format(other_callsign))
         return 0
 
     if my_qso.mo == "CW" and not (
@@ -216,7 +211,9 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
                 return next_score
         else:
             log.write(
-                "0\t(Time differs: {:s}, {:s})".format(str(my_qso.date), str(other_qso.date))
+                "0\t(Time differs: {:s}, {:s})".format(
+                    str(my_qso.date), str(other_qso.date)
+                )
             )
             return 0
 
@@ -245,7 +242,7 @@ def loop_all(filepath):
             checklog=metadata[call]["checklog"],
         )
 
-        log = open(filepath + call + ubnext , "w+")
+        log = open(filepath + call + ubnext, "w+")
         for qso in qsos:
             if not qso.dx_call in contest:
                 if not qso.dx_call in shadow_stations:
