@@ -204,22 +204,20 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
         log.write("0\t(PH QSO frequency {:d} out of contest band)".format(my_freq))
         return 0
 
-    # check for possible dupes or repeated qsos
-    next_qso = find_qso(
-        contest, other_callsign, my_qso.de_call, my_qso.freq[0], run + 1
-    )
-    if next_qso:
-        next_score = match_nrau(contest, my_qso, other_callsign, log, run + 1)
-        if next_score > 0:
-            return next_score
-
     if not match_time(my_qso.date, other_qso.date):
-        log.write(
-            "X-QSO-error: Time differs: {:s}, {:s}\n".format(
-                str(my_qso.date), str(other_qso.date)
-            )
+        # here check for possible dupes or repeated qsos
+        next_qso = find_qso(
+            contest, other_callsign, my_qso.de_call, my_qso.freq[0], run + 1
         )
-        return 0
+        if next_qso:
+            next_score = match_nrau(contest, my_qso, other_callsign, log, run + 1)
+            if next_score > 0:
+                return next_score
+        else:
+            log.write(
+                "0\t(Time differs: {:s}, {:s})".format(str(my_qso.date), str(other_qso.date))
+            )
+            return 0
 
     # final exchange check:
     return match_exch(my_qso, other_qso, log)
