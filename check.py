@@ -268,6 +268,10 @@ def loop_all(filepath):
                     # check if mult is ok in partial qso:
                     if county not in counties[country]:
                         mult_ok = False
+                    # do not issue multiplier on bad rx
+                    other_qso = find_qso(contest, qso.dx_call, qso.de_call, qso.freq[0])
+                    if other_qso and other_qso.de_exch[2] != qso.dx_exch[2]:
+                        mult_ok = False
 
                 if qso.freq[0] == "7":
                     results[call]["qso_count_40m"] += 1
