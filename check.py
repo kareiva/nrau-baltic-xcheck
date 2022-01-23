@@ -3,7 +3,7 @@
 # ----------------------------------------------------------------------------
 # Created By  : Simonas Kareiva LY2EN <ly2en@qrz.lt>
 # Created Date: 2022-01-20
-# version ='0.1'
+# version ='0.2'
 # ---------------------------------------------------------------------------
 """ This script cross-checks the NRAU-Baltic logs in CW and PH categories 
     Usage: python check.py > results.csv
