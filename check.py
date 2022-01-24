@@ -21,12 +21,12 @@ from cabrillo.parser import QSO, parse_log_file
 
 cw = {}
 ph = {}
-nqso = 0
-nfiles = 0
-mistakes = 0
-logext = ".txt"
-ubnext = ".ubn"
-max_time_delta = 3
+NUM_QSO = 0
+NUM_FILES = 0
+NUM_MISTAKES = 0
+LOG_EXT = ".txt"
+UBN_EXT = ".ubn"
+MAX_MINUTE_DELTA = 3
 shadow_stations = {}
 
 my_lookuplib = LookupLib(lookuptype="countryfile")
@@ -34,19 +34,19 @@ cic = Callinfo(my_lookuplib)
 
 
 def read_counties():
-    c = open("counties.json")
-    data = json.load(c)
-    c.close()
+    county_file = open("counties.json")
+    data = json.load(county_file)
+    county_file.close()
     return data
 
 
 def read_logs(folder):
-    global nfiles, nqso
+    global NUM_FILES, NUM_QSO
     _ret = {}
     _meta = {}
     files = os.listdir(folder)
     for file in files:
-        if file.endswith(logext):
+        if file.endswith(LOG_EXT):
             cab = parse_log_file(folder + file, ignore_unknown_key=True)
             _ret[cab.callsign] = cab.qso
             checklog = "N"
@@ -78,8 +78,8 @@ def read_logs(folder):
             if len(cab.qso) == 0:
                 print("No QSO found")
             else:
-                nqso += len(cab.qso)
-                nfiles += 1
+                NUM_QSO += len(cab.qso)
+                NUM_FILES += 1
     return _ret, _meta
 
 
@@ -106,10 +106,10 @@ def match_exch(my_qso, other_qso, log):
     other_tx_exch = other_qso.de_exch
     # match RST:
     if len(my_tx_exch) != 3:
-        log.write("0\t(Incomplete TX message: {:s})".format(str(my_exch)))
+        log.write("0\t(Incomplete TX message: {:s})".format(str(my_tx_exch)))
         return 0
-    if len(other_rx_exch) != 3:
-        log.write("0\t(Incomplete RX message: {:s})".format(str(my_exch)))
+    if len(my_rx_exch) != 3:
+        log.write("0\t(Incomplete RX message: {:s})".format(str(my_rx_exch)))
         return 0
     if my_tx_exch[0] != other_rx_exch[0]:
         log.write(
@@ -146,9 +146,9 @@ def match_exch(my_qso, other_qso, log):
 
 
 def match_time(date1, date2):
-    global max_time_delta
+    global MAX_MINUTE_DELTA
     delta = date1 - date2
-    if abs(delta.total_seconds()) > max_time_delta * 60:
+    if abs(delta.total_seconds()) > MAX_MINUTE_DELTA * 60:
         return False
     return True
 
@@ -164,9 +164,7 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
                     )
                 )
                 return 0
-            log.write(
-                "1\t(Found 10+ QSOs of station {:s})".format(my_qso.mo, other_callsign)
-            )
+            log.write("1\t(Found 10+ QSOs of station {:s})".format(other_callsign))
             return 1
         else:
             log.write("0\t(Log not received from {:s})".format(other_callsign))
@@ -222,9 +220,22 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
 
 
 def loop_all(filepath):
-    global mistakes, shadow_stations
+    global NUM_MISTAKES, shadow_stations
     results = {}
     contest, metadata = read_logs(filepath)
+
+    for call, qsos in contest.items():
+        for qso in qsos:
+            if not qso.dx_call in contest:
+                if not qso.dx_call in shadow_stations:
+                    shadow_stations[qso.dx_call] = {}
+                if not qso.mo + "_count" in shadow_stations[qso.dx_call]:
+                    shadow_stations[qso.dx_call][qso.mo + "_count"] = 0
+                if not qso.mo in shadow_stations[qso.dx_call]:
+                    shadow_stations[qso.dx_call][qso.mo] = []
+                shadow_stations[qso.dx_call][qso.mo].append(qso.de_call)
+                shadow_stations[qso.dx_call][qso.mo + "_count"] += 1
+
     for call, qsos in contest.items():
         # print("{:s}".format(call), end=", ", flush=True)
         results[call] = dict(
@@ -242,18 +253,7 @@ def loop_all(filepath):
             checklog=metadata[call]["checklog"],
         )
 
-        log = open(filepath + call + ubnext, "w+")
-        for qso in qsos:
-            if not qso.dx_call in contest:
-                if not qso.dx_call in shadow_stations:
-                    shadow_stations[qso.dx_call] = {}
-                if not qso.mo + "_count" in shadow_stations[qso.dx_call]:
-                    shadow_stations[qso.dx_call][qso.mo + "_count"] = 0
-                if not qso.mo in shadow_stations[qso.dx_call]:
-                    shadow_stations[qso.dx_call][qso.mo] = []
-                shadow_stations[qso.dx_call][qso.mo].append(qso.de_call)
-                shadow_stations[qso.dx_call][qso.mo + "_count"] += 1
-
+        log = open(filepath + call + UBN_EXT, "w+")
         for qso in qsos:
             log.write(str(qso) + "\t")
             points = match_nrau(contest, qso, qso.dx_call, log)
@@ -287,7 +287,7 @@ def loop_all(filepath):
                         log.write("\t+{:s}".format(county))
 
             if points < 2:
-                mistakes += 1
+                NUM_MISTAKES += 1
                 qso.valid = False
             log.write("\n")
         log.close()
@@ -347,6 +347,8 @@ results_to_csv(cw_results)
 results_to_csv(ph_results)
 
 print(
-    "{:d} QSO parsed ({:d} files), found {:d} mistakes".format(nqso, nfiles, mistakes),
+    "{:d} QSO parsed ({:d} files), found {:d} mistakes".format(
+        NUM_QSO, NUM_FILES, NUM_MISTAKES
+    ),
     file=sys.stderr,
 )
