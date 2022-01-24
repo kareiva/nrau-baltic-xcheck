@@ -108,16 +108,11 @@ def match_exch(my_qso, other_qso, log):
     if len(my_tx_exch) != 3:
         log.write("0\t(Incomplete TX message: {:s})".format(str(my_tx_exch)))
         return 0
+
     if len(my_rx_exch) != 3:
         log.write("0\t(Incomplete RX message: {:s})".format(str(my_rx_exch)))
         return 0
-    if my_tx_exch[0] != other_rx_exch[0]:
-        log.write(
-            "1\t(TX RST mismatch: party copied your {:s} as {:s})".format(
-                my_tx_exch[0], other_rx_exch[0]
-            )
-        )
-        return 1
+
     if my_rx_exch[0] != other_tx_exch[0]:
         log.write(
             "1\t(RX RST mismatch: you copied {:s} as {:s})".format(
@@ -125,6 +120,7 @@ def match_exch(my_qso, other_qso, log):
             )
         )
         return 1
+
     # match RX number:
     if int(my_rx_exch[1]) != int(other_tx_exch[1]):
         log.write(
@@ -134,26 +130,11 @@ def match_exch(my_qso, other_qso, log):
         )
         return 1
 
-    if int(my_tx_exch[1]) != int(other_rx_exch[1]):
-        log.write(
-            "1\t(TX number mismatch: party copied your {:s} as {:s})".format(
-                my_tx_exch[1], other_rx_exch[1]
-            )
-        )
-        return 1
-
-    # match RX and TX county:
+    # match RX county:
     if my_rx_exch[2] != other_tx_exch[2]:
         log.write(
             "1\t(RX county mismatch: you copied {:s} as {:s})".format(
                 other_tx_exch[2], my_rx_exch[2]
-            )
-        )
-        return 1
-    if my_tx_exch[2] != other_rx_exch[2]:
-        log.write(
-            "1\t(TX county mismatch: party copied your {:s} as {:s})".format(
-                my_tx_exch[2], other_rx_exch[2]
             )
         )
         return 1
