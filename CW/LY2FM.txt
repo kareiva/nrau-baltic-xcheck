@@ -1,0 +1,34 @@
+START-OF-LOG:  3.0
+CREATED-BY:    SD by EI5DI
+X-VERSION:     V14.30   V14.30  QNRAU
+CONTEST:       NRAU-BALTIC-CW
+CALLSIGN:      LY2FM
+CATEGORY:      SINGLE-OP ALL LOW CW
+CLAIMED-SCORE: 140
+NAME:          Gintautas STANKUNAS
+ADDRESS:       Vaidviles g. 19
+ADDRESS:       Kalnyciu k
+ADDRESS:       Raudondvario sen
+ADDRESS:       LT-53476 Kauno raj.
+OPERATORS:     LY2FM
+X-RADIOS:      IC-735
+X-ANTENNAS:    dipole
+X-SUMMARY: 
+X-SUMMARY:                     160m  80m  40m  20m  15m  10m  Total
+X-SUMMARY: 
+X-SUMMARY:         Valid QSOs:    0   10    0    0    0    0    10
+X-SUMMARY:              Mults:    0    7    0    0    0    0     7
+X-SUMMARY:             Points:    0   20    0    0    0    0    20
+X-SUMMARY: 
+X-SUMMARY: 
+QSO:  3500 CW 2022-01-09 0912 LY2FM         599  001 KN     LY4G          599  010 PN          
+QSO:  3500 CW 2022-01-09 0914 LY2FM         599  002 KN     LY7W          599  015 KI          
+QSO:  3500 CW 2022-01-09 0917 LY2FM         599  003 KN     LY2TS         599  025 TI          
+QSO:  3500 CW 2022-01-09 0918 LY2FM         599  004 KN     LY2J          599  004 MM          
+QSO:  3500 CW 2022-01-09 0921 LY2FM         599  005 KN     LY6A          599  048 KN          
+QSO:  3500 CW 2022-01-09 0922 LY2FM         599  006 KN     LY2XW         599  029 UT          
+QSO:  3500 CW 2022-01-09 0925 LY2FM         599  007 KN     LY2AX         599  027 KN          
+QSO:  3500 CW 2022-01-09 0927 LY2FM         599  008 KN     LY2CX         599  023 KI          
+QSO:  3500 CW 2022-01-09 0928 LY2FM         599  009 KN     LY2SA         599  032 MM          
+QSO:  3500 CW 2022-01-09 0933 LY2FM         599  010 KN     LY9A          599  066 PA          
+END-OF-LOG: 

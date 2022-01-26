@@ -1,0 +1,108 @@
+START-OF-LOG: 3.0
+CREATED-BY: TR4W v.4.248
+CALLSIGN: OH1SIC
+CONTEST: NRAU-BALTIC-SSB
+CLAIMED-SCORE: 11264
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-POWER: LOW
+OPERATORS: SM5SIC
+CLUB: SK5AA
+LOCATION: KP00XE
+NAME: Göran Ingemar Backman
+ADDRESS: Uttervägen 6
+ADDRESS-CITY: 644 36 TORSHÄLLA
+ADDRESS-COUNTRY: Sweden
+EMAIL: sm5sic@gmail.com
+SOAPBOX: 73 de OH1SIC/SM5SIC Göran 
+QSO:  3604 PH 2022-01-09 0630 OH1SIC        59  1    VA     LY4A          59  1    SU      
+QSO:  3614 PH 2022-01-09 0630 OH1SIC        59  2    VA     YL7A          59  1    VK      
+QSO:  3617 PH 2022-01-09 0631 OH1SIC        59  3    VA     OZ5W          59  3    VS      
+QSO:  3628 PH 2022-01-09 0632 OH1SIC        59  4    VA     LY5XX         59  5    MM      
+QSO:  3630 PH 2022-01-09 0633 OH1SIC        59  5    VA     YL3JA         59  10   TU      
+QSO:  3635 PH 2022-01-09 0633 OH1SIC        59  6    VA     ES5TV         59  10   JG      
+QSO:  3637 PH 2022-01-09 0634 OH1SIC        59  7    VA     ES7GM         59  13   VP      
+QSO:  3649 PH 2022-01-09 0635 OH1SIC        59  8    VA     SE5E          59  8    UP      
+QSO:  3702 PH 2022-01-09 0636 OH1SIC        59  9    VA     YL2GD         59  11   AU      
+QSO:  3704 PH 2022-01-09 0637 OH1SIC        59  10   VA     ES6RW         59  18   VO      
+QSO:  3710 PH 2022-01-09 0638 OH1SIC        59  11   VA     OZ30EU        59  13   BH      
+QSO:  3713 PH 2022-01-09 0639 OH1SIC        59  12   VA     ES7A          59  15   VP      
+QSO:  3716 PH 2022-01-09 0640 OH1SIC        59  13   VA     YL7X          59  24   KG      
+QSO:  3719 PH 2022-01-09 0641 OH1SIC        59  14   VA     ES2MC         59  31   HR      
+QSO:  3721 PH 2022-01-09 0641 OH1SIC        59  15   VA     OH2PM         59  13   VA      
+QSO:  3725 PH 2022-01-09 0643 OH1SIC        59  16   VA     OH2KW         59  12   UU      
+QSO:  3727 PH 2022-01-09 0643 OH1SIC        59  17   VA     OH2KI         59  22   KT      
+QSO:  3732 PH 2022-01-09 0646 OH1SIC        59  18   VA     LY4NZ         59  9    VU      
+QSO:  3734 PH 2022-01-09 0647 OH1SIC        59  19   VA     OH8L          59  20   PP      
+QSO:  3739 PH 2022-01-09 0648 OH1SIC        59  20   VA     LY2AX         59  32   KN      
+QSO:  3741 PH 2022-01-09 0649 OH1SIC        59  21   VA     ES8GP         59  24   PU      
+QSO:  3744 PH 2022-01-09 0650 OH1SIC        59  22   VA     YL2KO         59  52   AU      
+QSO:  3747 PH 2022-01-09 0650 OH1SIC        59  23   VA     YL2PP         59  25   RR      
+QSO:  3750 PH 2022-01-09 0651 OH1SIC        59  24   VA     YL5W          59  20   BV      
+QSO:  3751 PH 2022-01-09 0652 OH1SIC        59  25   VA     OH8X          59  34   PP      
+QSO:  3754 PH 2022-01-09 0652 OH1SIC        59  26   VA     YL9T          59  31   VK      
+QSO:  3758 PH 2022-01-09 0652 OH1SIC        59  27   VA     YL2PJ         59  38   RE      
+QSO:  3764 PH 2022-01-09 0653 OH1SIC        59  28   VA     SK5A          59  30   VM      
+QSO:  3768 PH 2022-01-09 0654 OH1SIC        59  29   VA     LY5I          59  34   UT      
+QSO:  3772 PH 2022-01-09 0655 OH1SIC        59  30   VA     OG4W          59  32   ES      
+QSO:  3603 PH 2022-01-09 0656 OH1SIC        59  31   VA     OH1F          59  36   SA      
+QSO:  3606 PH 2022-01-09 0657 OH1SIC        59  32   VA     OH6RE         59  21   KE      
+QSO:  3613 PH 2022-01-09 0659 OH1SIC        59  33   VA     YL2SM         59  55   AU      
+QSO:  3621 PH 2022-01-09 0700 OH1SIC        59  34   VA     LY4LA         59  30   KD      
+QSO:  3633 PH 2022-01-09 0701 OH1SIC        59  35   VA     LY3BN         59  46   KN      
+QSO:  3635 PH 2022-01-09 0702 OH1SIC        59  36   VA     LY5YY         59  34   KM      
+QSO:  3640 PH 2022-01-09 0704 OH1SIC        59  37   VA     LY2XW         59  61   UT      
+QSO:  3648 PH 2022-01-09 0705 OH1SIC        59  38   VA     YL2BJ         59  72   VR      
+QSO:  3701 PH 2022-01-09 0706 OH1SIC        59  39   VA     LY4G          59  53   PN      
+QSO:  3708 PH 2022-01-09 0707 OH1SIC        59  40   VA     OZ1ADL        59  44   VJ      
+QSO:  3712 PH 2022-01-09 0708 OH1SIC        59  41   VA     LY1FW         59  47   MM      
+QSO:  3715 PH 2022-01-09 0709 OH1SIC        59  42   VA     LY2K          59  39   AT      
+QSO:  3724 PH 2022-01-09 0710 OH1SIC        59  43   VA     OH3Z          59  67   VA      
+QSO:  3754 PH 2022-01-09 0714 OH1SIC        59  44   VA     OZ3SM         59  12   KH      
+QSO:  3763 PH 2022-01-09 0715 OH1SIC        59  45   VA     SM2M          59  66   VB      
+QSO:  3770 PH 2022-01-09 0716 OH1SIC        59  46   VA     LY7M          59  82   UT      
+QSO:  3774 PH 2022-01-09 0717 OH1SIC        59  47   VA     LY9A          59  79   PA      
+QSO:  3608 PH 2022-01-09 0722 OH1SIC        59  48   VA     SA1CCQ        59  58   GO      
+QSO:  3617 PH 2022-01-09 0723 OH1SIC        59  49   VA     ES2O          59  36   HR      
+QSO:  3631 PH 2022-01-09 0726 OH1SIC        59  50   VA     ES5NHC        59  38   TA      
+QSO:  3633 PH 2022-01-09 0726 OH1SIC        59  51   VA     ES2RR         59  94   HR      
+QSO:  3641 PH 2022-01-09 0728 OH1SIC        59  52   VA     ES6RMR        59  66   VC      
+QSO:  3647 PH 2022-01-09 0729 OH1SIC        59  53   VA     ES5NY         59  35   JG      
+QSO:  3704 PH 2022-01-09 0731 OH1SIC        59  54   VA     OH2BU         59  18   UU      
+QSO:  3712 PH 2022-01-09 0733 OH1SIC        59  55   VA     SE5N          59  43   SO      
+QSO:  3722 PH 2022-01-09 0735 OH1SIC        59  56   VA     LC1R          59  65   TR      
+QSO:  3731 PH 2022-01-09 0736 OH1SIC        59  57   VA     LY2CX         59  91   KI      
+QSO:  3735 PH 2022-01-09 0737 OH1SIC        59  58   VA     SM5DXR        59  34   VM      
+QSO:  3737 PH 2022-01-09 0738 OH1SIC        59  59   VA     YL1ZF         59  57   RR      
+QSO:  3742 PH 2022-01-09 0740 OH1SIC        59  60   VA     LY3NX         59  66   UT      
+QSO:  7136 PH 2022-01-09 0747 OH1SIC        59  61   VA     YL3JA         59  118  TU      
+QSO:  7141 PH 2022-01-09 0748 OH1SIC        59  62   VA     LY3BN         59  100  KN      
+QSO:  7146 PH 2022-01-09 0752 OH1SIC        59  63   VA     LY1FW         59  98   MM      
+QSO:  7153 PH 2022-01-09 0753 OH1SIC        59  64   VA     LY7M          59  128  UT      
+QSO:  7156 PH 2022-01-09 0754 OH1SIC        59  65   VA     OH8NW         59  104  VA      
+QSO:  7161 PH 2022-01-09 0756 OH1SIC        59  66   VA     YL2KO         59  168  AU      
+QSO:  7166 PH 2022-01-09 0800 OH1SIC        59  67   VA     LY2AX         59  116  KN      
+QSO:  7168 PH 2022-01-09 0801 OH1SIC        59  68   VA     LC0X          59  30   IN      
+QSO:  7172 PH 2022-01-09 0801 OH1SIC        59  69   VA     OZ30EU        59  109  BH      
+QSO:  7182 PH 2022-01-09 0804 OH1SIC        59  70   VA     LY2BKT        59  109  SI      
+QSO:  7187 PH 2022-01-09 0805 OH1SIC        59  71   VA     YL2PP         59  106  RR      
+QSO:  7192 PH 2022-01-09 0806 OH1SIC        59  72   VA     OH8UV         59  71   PP      
+QSO:  7189 PH 2022-01-09 0811 OH1SIC        59  73   VA     LY5I          59  106  UT      
+QSO:  7186 PH 2022-01-09 0811 OH1SIC        59  74   VA     LY2K          59  95   AT      
+QSO:  7184 PH 2022-01-09 0812 OH1SIC        59  75   VA     OH8L          59  130  PP      
+QSO:  7180 PH 2022-01-09 0813 OH1SIC        59  76   VA     YL7X          59  179  KG      
+QSO:  7179 PH 2022-01-09 0815 OH1SIC        59  77   VA     SM2M          59  158  VB      
+QSO:  7176 PH 2022-01-09 0815 OH1SIC        59  78   VA     LY5XX         59  123  MM      
+QSO:  7156 PH 2022-01-09 0818 OH1SIC        59  79   VA     LY6A          59  146  KN      
+QSO:  7150 PH 2022-01-09 0819 OH1SIC        59  80   VA     LY2CX         59  132  KI      
+QSO:  7143 PH 2022-01-09 0820 OH1SIC        59  81   VA     LY2XW         59  149  UT      
+QSO:  7137 PH 2022-01-09 0821 OH1SIC        59  82   VA     YL2GD         59  174  AU      
+QSO:  7131 PH 2022-01-09 0823 OH1SIC        59  83   VA     ES7GM         59  232  VP      
+QSO:  7096 PH 2022-01-09 0824 OH1SIC        59  84   VA     ES5TV         59  235  JG      
+QSO:  7093 PH 2022-01-09 0825 OH1SIC        59  85   VA     OG4W          59  119  ES      
+QSO:  7078 PH 2022-01-09 0827 OH1SIC        59  86   VA     LY2MM         59  133  KM      
+QSO:  7073 PH 2022-01-09 0828 OH1SIC        59  87   VA     YL7A          59  155  VK      
+QSO:  7069 PH 2022-01-09 0829 OH1SIC        59  88   VA     OH3LS         59  61   PM      
+END-OF-LOG: 

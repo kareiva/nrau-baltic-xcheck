@@ -1,0 +1,103 @@
+START-OF-LOG: 3.0
+LOCATION: DX
+CALLSIGN: LY4K
+CLUB: Vytautas Magnus university radio club
+CONTEST: NRAU-SSB
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CATEGORY-POWER: LOW
+CATEGORY-STATION: FIXED
+CATEGORY-TRANSMITTER: ONE
+CLAIMED-SCORE: 8580
+OPERATORS: LY4K
+NAME: Augis
+ADDRESS: Griciupio 14-22
+ADDRESS-CITY: Kaunas
+ADDRESS-STATE-PROVINCE: KM
+ADDRESS-POSTALCODE: 
+ADDRESS-COUNTRY: LITHUANIA
+GRID-LOCATOR: KO14XV
+EMAIL:  
+CREATED-BY: N1MM Logger+ 1.0.9397.0
+QSO:  3749 PH 2022-01-09 0631 LY4K          59  001  KM   YL2BJ         59  002  VR     
+QSO:  3762 PH 2022-01-09 0632 LY4K          59  002  KM   SK5A          59  004  VM     
+QSO:  3758 PH 2022-01-09 0633 LY4K          59  003  KM   LY2TS         59  004  TI     
+QSO:  3753 PH 2022-01-09 0633 LY4K          59  004  KM   YL2PJ         59  005  RE     
+QSO:  3745 PH 2022-01-09 0634 LY4K          59  005  KM   YL2KO         59  010  AU     
+QSO:  3730 PH 2022-01-09 0636 LY4K          59  006  KM   OH8L          59  008  PP     
+QSO:  3728 PH 2022-01-09 0637 LY4K          59  007  KM   OH2KI         59  012  KT     
+QSO:  3722 PH 2022-01-09 0638 LY4K          59  008  KM   OH2PM         59  010  VA     
+QSO:  3719 PH 2022-01-09 0639 LY4K          59  009  KM   ES2MC         59  026  HR     
+QSO:  3716 PH 2022-01-09 0639 LY4K          59  010  KM   YL7X          59  021  KG     
+QSO:  3713 PH 2022-01-09 0641 LY4K          59  011  KM   ES7A          59  018  VP     
+QSO:  3710 PH 2022-01-09 0641 LY4K          59  012  KM   OZ30EU        59  015  BH     
+QSO:  3704 PH 2022-01-09 0642 LY4K          59  013  KM   ES6RW         59  030  VO     
+QSO:  3702 PH 2022-01-09 0643 LY4K          59  014  KM   YL2GD         59  024  AU     
+QSO:  3768 PH 2022-01-09 0644 LY4K          59  015  KM   ES6PA         59  011  VO     
+QSO:  3761 PH 2022-01-09 0645 LY4K          59  016  KM   OH2T          59  026  UU     
+QSO:  3754 PH 2022-01-09 0645 LY4K          59  017  KM   YL9T          59  014  VK     
+QSO:  3752 PH 2022-01-09 0646 LY4K          59  018  KM   OH8X          59  026  PP     
+QSO:  3741 PH 2022-01-09 0651 LY4K          59  019  KM   ES8GP         59  028  PU     
+QSO:  3730 PH 2022-01-09 0654 LY4K          59  020  KM   OH8NW         59  038  VA     
+QSO:  3604 PH 2022-01-09 0657 LY4K          59  021  KM   OH1F          59  038  SA     
+QSO:  3611 PH 2022-01-09 0659 LY4K          59  022  KM   ES6RMR        59  025  VC     
+QSO:  3614 PH 2022-01-09 0700 LY4K          59  023  KM   YL2SM         59  058  AU     
+QSO:  3617 PH 2022-01-09 0701 LY4K          59  024  KM   OZ5W          59  052  VS     
+QSO:  3626 PH 2022-01-09 0702 LY4K          59  025  KM   ES5TV         59  088  JG     
+QSO:  3725 PH 2022-01-09 0707 LY4K          59  026  KM   OH3Z          59  057  VA     
+QSO:  3638 PH 2022-01-09 0711 LY4K          59  027  KM   ES7GM         59  089  VP     
+QSO:  3658 PH 2022-01-09 0713 LY4K          59  028  KM   LY3LT         59  032  VV     
+QSO:  3647 PH 2022-01-09 0715 LY4K          59  029  KM   LY1CT         59  031  KD     
+QSO:  3622 PH 2022-01-09 0716 LY4K          59  030  KM   LY3NX         59  043  UT     
+QSO:  3601 PH 2022-01-09 0717 LY4K          59  031  KM   LY4A          59  093  SU     
+QSO:  3746 PH 2022-01-09 0718 LY4K          59  032  KM   LY5YY         59  050  KM     
+QSO:  3744 PH 2022-01-09 0719 LY4K          59  033  KM   LY2AX         59  079  KN     
+QSO:  3731 PH 2022-01-09 0719 LY4K          59  034  KM   LY2CX         59  069  KI     
+QSO:  3726 PH 2022-01-09 0721 LY4K          59  035  KM   LY2K          59  051  AT     
+QSO:  3611 PH 2022-01-09 0723 LY4K          59  036  KM   LY5XX         59  061  MM     
+QSO:  3650 PH 2022-01-09 0724 LY4K          59  037  KM   LY6A          59  072  KN     
+QSO:  3645 PH 2022-01-09 0724 LY4K          59  038  KM   LY2XW         59  081  UT     
+QSO:  3642 PH 2022-01-09 0725 LY4K          59  039  KM   LY2MM         59  059  KM     
+QSO:  3611 PH 2022-01-09 0727 LY4K          59  040  KM   LY3BN         59  066  KN     
+QSO:  3637 PH 2022-01-09 0728 LY4K          59  041  KM   YL7A          59  084  VK     
+QSO:  3646 PH 2022-01-09 0729 LY4K          59  042  KM   LY1FW         59  072  MM     
+QSO:  3650 PH 2022-01-09 0730 LY4K          59  043  KM   SE5E          59  088  UP     
+QSO:  3740 PH 2022-01-09 0735 LY4K          59  044  KM   LY4NZ         59  027  VU     
+QSO:  3737 PH 2022-01-09 0736 LY4K          59  045  KM   YL1ZF         59  053  RR     
+QSO:  3729 PH 2022-01-09 0738 LY4K          59  046  KM   YL2QV         59  048  JP     
+QSO:  3719 PH 2022-01-09 0739 LY4K          59  047  KM   LY4G          59  086  PN     
+QSO:  3608 PH 2022-01-09 0743 LY4K          59  048  KM   SA1CCQ        59  084  GO     
+QSO:  3620 PH 2022-01-09 0744 LY4K          59  049  KM   LY3IZ         59  045  UT     
+QSO:  3704 PH 2022-01-09 0747 LY4K          59  050  KM   OH2BU         59  046  UU     
+QSO:  3710 PH 2022-01-09 0749 LY4K          59  051  KM   YL2QG         59  057  LI     
+QSO:  3712 PH 2022-01-09 0751 LY4K          59  052  KM   LY9A          59  108  PA     
+QSO:  3701 PH 2022-01-09 0754 LY4K          59  053  KM   LY4Q          59  108  KN     
+QSO:  3738 PH 2022-01-09 0757 LY4K          59  054  KM   ES7GM         59  178  VP     
+QSO:  3738 PH 2022-01-09 0758 LY4K          59  055  KM   ES8JX         59  028  PU     
+QSO:  3738 PH 2022-01-09 0759 LY4K          59  056  KM   ES2O          59  065  HR     
+QSO:  3738 PH 2022-01-09 0801 LY4K          59  057  KM   SM7ATL        59  001  KA     
+QSO:  7087 PH 2022-01-09 0805 LY4K          59  058  KM   LY4A          59  186  SU     
+QSO:  7068 PH 2022-01-09 0805 LY4K          59  059  KM   ES6RW         59  174  VO     
+QSO:  7195 PH 2022-01-09 0807 LY4K          59  060  KM   SM5ACQ        59  080  VM     
+QSO:  7193 PH 2022-01-09 0808 LY4K          59  061  KM   OH1F          59  153  SA     
+QSO:  7188 PH 2022-01-09 0808 LY4K          59  062  KM   YL2PP         59  111  RR     
+QSO:  7182 PH 2022-01-09 0809 LY4K          59  063  KM   LY2BKT        59  119  SI     
+QSO:  7181 PH 2022-01-09 0810 LY4K          59  064  KM   YL7X          59  168  KG     
+QSO:  7168 PH 2022-01-09 0811 LY4K          59  065  KM   OZ1ADL        59  130  VJ     
+QSO:  7157 PH 2022-01-09 0814 LY4K          59  066  KM   SM5DXR        59  054  VM     
+QSO:  7146 PH 2022-01-09 0815 LY4K          59  067  KM   LY1FW         59  136  MM     
+QSO:  7079 PH 2022-01-09 0816 LY4K          59  068  KM   LY2MM         59  114  KM     
+QSO:  7073 PH 2022-01-09 0817 LY4K          59  069  KM   OH3Z          59  159  VA     
+QSO:  7071 PH 2022-01-09 0818 LY4K          59  070  KM   ES6RMR        59  099  VC     
+QSO:  7065 PH 2022-01-09 0819 LY4K          59  071  KM   LA1TV         59  089  VF     
+QSO:  7062 PH 2022-01-09 0821 LY4K          59  072  KM   OH6RE         59  119  KE     
+QSO:  7194 PH 2022-01-09 0822 LY4K          59  073  KM   LY7W          59  091  KI     
+QSO:  7179 PH 2022-01-09 0823 LY4K          59  074  KM   SM2M          59  173  VB     
+QSO:  7176 PH 2022-01-09 0823 LY4K          59  075  KM   LY5I          59  120  UT     
+QSO:  7158 PH 2022-01-09 0825 LY4K          59  076  KM   LY4Q          59  145  KN     
+QSO:  7150 PH 2022-01-09 0825 LY4K          59  077  KM   LY2CX         59  152  KI     
+QSO:  7143 PH 2022-01-09 0826 LY4K          59  078  KM   LY6A          59  157  KN     
+QSO:  7186 PH 2022-01-09 0829 LY4K          59  079  KM   LY7M          59  196  UT     
+END-OF-LOG:

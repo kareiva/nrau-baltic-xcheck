@@ -1,0 +1,48 @@
+START-OF-LOG: 3.0
+CONTEST: NRAU-BALTIC-SSB
+CALLSIGN: SE5W
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-MODE: SSB
+CATEGORY-POWER: LOW
+CATEGORY-STATION: FIXED
+CLAIMED-SCORE: 1800
+NAME: Bo Cedvall
+ADDRESS: Horsskog 343
+ADDRESS: SWEDEN
+EMAIL: bo.cedwall@gmail.com
+OPERATORS: SM5NQB
+CLUB: SK5DB  - Uppsala Radioklubb
+CREATED-BY: Log4U Ver 1.02 25 juni 2012
+SOAPBOX:
+QSO:  3500 PH 2022-01-09 0634 SE5W          59   01  UP     YL2KO         59   4   AU
+QSO:  3500 PH 2022-01-09 0637 SE5W          59   2   UP     YL7X          59   10  KG
+QSO:  3500 PH 2022-01-09 0639 SE5W          59   3   UP     ES6RW         59   15  VO
+QSO:  3500 PH 2022-01-09 0641 SE5W          59   4   UP     LY1FW         59   7   MM
+QSO:  3500 PH 2022-01-09 0649 SE5W          59   5   UP     OH2T          59   28  UU
+QSO:  3500 PH 2022-01-09 0652 SE5W          59   6   UP     YL9T          59   21  VK
+QSO:  3500 PH 2022-01-09 0658 SE5W          59   7   UP     OH1KI         59   45  KT
+QSO:  3500 PH 2022-01-09 0706 SE5W          59   8   UP     OZ1ADL        59   38  VJ
+QSO:  3500 PH 2022-01-09 0710 SE5W          59   9   UP     ES2MC         59   89  HR
+QSO:  3500 PH 2022-01-09 0714 SE5W          59   10  UP     OH8X          59   80  PP
+QSO:  3500 PH 2022-01-09 0716 SE5W          59   11  UP     OH1F          59   74  SA
+QSO:  3500 PH 2022-01-09 0719 SE5W          59   12  UP     LY9A          59   77  PA
+QSO:  3500 PH 2022-01-09 0720 SE5W          59   13  UP     SM2M          59   90  VB
+QSO:  3500 PH 2022-01-09 0726 SE5W          59   14  UP     LY2CX         59   78  KI
+QSO:  3500 PH 2022-01-09 0728 SE5W          59   15  UP     YL2SM         59   87  AU
+QSO:  3500 PH 2022-01-09 0734 SE5W          59   16  UP     SK5A          59   78  VM
+QSO:  3500 PH 2022-01-09 0737 SE5W          59   17  UP     SE5N          59   46  SO
+QSO:  3500 PH 2022-01-09 0740 SE5W          59   18  UP     LC1R          59   69  TR
+QSO:  3500 PH 2022-01-09 0744 SE5W          59   19  UP     SE5E          59   109 UP
+QSO:  7000 PH 2022-01-09 0750 SE5W          59   20  UP     YL2BJ         59   122 VR
+QSO:  7000 PH 2022-01-09 0800 SE5W          59   21  UP     OZ30EU        59   102 BH
+QSO:  7000 PH 2022-01-09 0806 SE5W          59   22  UP     OZ1ADL        59   114 VJ
+QSO:  7000 PH 2022-01-09 0807 SE5W          59   23  UP     YL2KO         59   190 AU
+QSO:  7000 PH 2022-01-09 0808 SE5W          59   24  UP     LY7M          59   160 UT
+QSO:  7000 PH 2022-01-09 0809 SE5W          59   25  UP     LY1FW         59   121 MM
+QSO:  7000 PH 2022-01-09 0811 SE5W          59   26  UP     LY3BN         59   146 KN
+QSO:  7000 PH 2022-01-09 0813 SE5W          59   27  UP     YL2GD         59   142 AU
+QSO:  7000 PH 2022-01-09 0815 SE5W          59   28  UP     ES7GM         59   210 VP
+QSO:  7000 PH 2022-01-09 0819 SE5W          59   29  UP     SM2M          59   162 VB
+QSO:  7000 PH 2022-01-09 0822 SE5W          59   30  UP     YL7X          59   194 KG
+END-OF-LOG:
+

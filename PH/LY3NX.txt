@@ -1,0 +1,116 @@
+START-OF-LOG: 3.0
+CREATED-BY: TR4W v.4.89.0
+CALLSIGN: LY3NX
+CONTEST: NRAU-BALTIC-SSB
+CLAIMED-SCORE: 14490
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-POWER: LOW
+QSO:  3500 PH 2022-01-09 0630 LY3NX         59  1    UT     LY5DD      59     1       MM      
+QSO:  3500 PH 2022-01-09 0631 LY3NX         59  2    UT     LY2AX      59     2       KN      
+QSO:  3500 PH 2022-01-09 0631 LY3NX         59  3    UT     YL2BJ      59     3       VR      
+QSO:  3500 PH 2022-01-09 0632 LY3NX         59  4    UT     YL2PJ      59     3       RE      
+QSO:  3500 PH 2022-01-09 0633 LY3NX         59  5    UT     SK5A       59     6       VM      
+QSO:  3500 PH 2022-01-09 0633 LY3NX         59  6    UT     LY2MM      59     7       KM      
+QSO:  3500 PH 2022-01-09 0633 LY3NX         59  7    UT     LY5I       59     5       UT      
+QSO:  3500 PH 2022-01-09 0635 LY3NX         59  8    UT     LY2TS      59     7       TI      
+QSO:  3500 PH 2022-01-09 0635 LY3NX         59  9    UT     YL2KO      59    13       AU      
+QSO:  3500 PH 2022-01-09 0638 LY3NX         59  10   UT     OZ30EU     59    12       BH      
+QSO:  3500 PH 2022-01-09 0638 LY3NX         59  11   UT     ES6RW      59    21       VO      
+QSO:  3500 PH 2022-01-09 0639 LY3NX         59  12   UT     LY5XX      59    20       MM      
+QSO:  3500 PH 2022-01-09 0640 LY3NX         59  13   UT     SM2M       59    19       VB      
+QSO:  3500 PH 2022-01-09 0641 LY3NX         59  14   UT     LY7M       59    35       UT      
+QSO:  3500 PH 2022-01-09 0641 LY3NX         59  15   UT     LY3BN      59     8       KN      
+QSO:  3500 PH 2022-01-09 0642 LY3NX         59  16   UT     ES7GM      59    36       VP      
+QSO:  3500 PH 2022-01-09 0643 LY3NX         59  17   UT     OZ1ADL     59    17       VJ      
+QSO:  3500 PH 2022-01-09 0643 LY3NX         59  18   UT     ES2RR      59    21       HR      
+QSO:  3500 PH 2022-01-09 0645 LY3NX         59  19   UT     LY4A       59    29       SU      
+QSO:  3500 PH 2022-01-09 0648 LY3NX         59  20   UT     OH2PM      59    22       VA      
+QSO:  3500 PH 2022-01-09 0648 LY3NX         59  21   UT     LY4Q       59    21       KN      
+QSO:  3500 PH 2022-01-09 0649 LY3NX         59  22   UT     YL9T       59    23       VK      
+QSO:  3500 PH 2022-01-09 0652 LY3NX         59  23   UT     YL2SM      59    39       AU      
+QSO:  3500 PH 2022-01-09 0652 LY3NX         59  24   UT     LA1TV      59    18       VF      
+QSO:  3500 PH 2022-01-09 0654 LY3NX         59  25   UT     YL5W       59    22       BV      
+QSO:  3500 PH 2022-01-09 0655 LY3NX         59  26   UT     OH8X       59    41       PP      
+QSO:  3500 PH 2022-01-09 0656 LY3NX         59  27   UT     LY4LA      59    18       KD      
+QSO:  3500 PH 2022-01-09 0656 LY3NX         59  28   UT     OH1F       59    37       SA      
+QSO:  3500 PH 2022-01-09 0658 LY3NX         59  29   UT     ES5TV      59    83       JG      
+QSO:  3500 PH 2022-01-09 0659 LY3NX         59  30   UT     LY2CX      59    36       KI      
+QSO:  3500 PH 2022-01-09 0659 LY3NX         59  31   UT     ES6PA      59    22       VO      
+QSO:  3500 PH 2022-01-09 0700 LY3NX         59  32   UT     LY9A       59    50       PA      
+QSO:  3500 PH 2022-01-09 0701 LY3NX         59  33   UT     YL2VW      59    50       RR      
+QSO:  3500 PH 2022-01-09 0703 LY3NX         59  34   UT     LY2XW      59    60       UT      
+QSO:  3500 PH 2022-01-09 0703 LY3NX         59  35   UT     LY5YY      59    36       KM      
+QSO:  3500 PH 2022-01-09 0706 LY3NX         59  36   UT     OZ5W       59    91       VS      
+QSO:  3500 PH 2022-01-09 0707 LY3NX         59  37   UT     LY4G       59    55       PN      
+QSO:  3500 PH 2022-01-09 0708 LY3NX         59  38   UT     LY1FW      59    46       MM      
+QSO:  3500 PH 2022-01-09 0708 LY3NX         59  39   UT     ES2MC      59    92       HR      
+QSO:  3500 PH 2022-01-09 0709 LY3NX         59  40   UT     OH2KI      59    67       KT      
+QSO:  3500 PH 2022-01-09 0713 LY3NX         59  41   UT     OG4W       59    47       ES      
+QSO:  3500 PH 2022-01-09 0715 LY3NX         59  42   UT     LY2ON      59    12       KI      
+QSO:  3500 PH 2022-01-09 0716 LY3NX         59  43   UT     LY4K       59    30       KM      
+QSO:  3500 PH 2022-01-09 0717 LY3NX         59  44   UT     LY2BKT     59    59       SI      
+QSO:  3500 PH 2022-01-09 0718 LY3NX         59  45   UT     OH7JL      59    32       PK      
+QSO:  3500 PH 2022-01-09 0719 LY3NX         59  46   UT     ES2JW      59    32       HR      
+QSO:  3500 PH 2022-01-09 0720 LY3NX         59  47   UT     LY2MC      59    47       TI      
+QSO:  3500 PH 2022-01-09 0720 LY3NX         59  48   UT     ES2O       59    30       HR      
+QSO:  3500 PH 2022-01-09 0721 LY3NX         59  49   UT     YL3AND     59    28       TS      
+QSO:  3500 PH 2022-01-09 0721 LY3NX         59  50   UT     LY7W       59    37       KI      
+QSO:  3500 PH 2022-01-09 0721 LY3NX         59  51   UT     LY3IZ      59    32       UT      
+QSO:  3500 PH 2022-01-09 0722 LY3NX         59  52   UT     ES5RIM     59    32       JG      
+QSO:  3500 PH 2022-01-09 0722 LY3NX         59  53   UT     ES7A       59    90       VP      
+QSO:  3500 PH 2022-01-09 0723 LY3NX         59  54   UT     LY1LB      59    52       KN      
+QSO:  3500 PH 2022-01-09 0723 LY3NX         59  55   UT     YL1ZF      59    33       RR      
+QSO:  3500 PH 2022-01-09 0725 LY3NX         59  56   UT     OH6RE      59    62       KE      
+QSO:  3500 PH 2022-01-09 0726 LY3NX         59  57   UT     YL2PP      59    70       RR      
+QSO:  3500 PH 2022-01-09 0727 LY3NX         59  58   UT     YL3KW      59    27       VK      
+QSO:  3500 PH 2022-01-09 0728 LY3NX         59  59   UT     ES8AY      59     6       PU      
+QSO:  3500 PH 2022-01-09 0728 LY3NX         59  60   UT     YL2KN      59    34       AU      
+QSO:  3500 PH 2022-01-09 0730 LY3NX         59  61   UT     LY2K       59    64       AT      
+QSO:  3500 PH 2022-01-09 0733 LY3NX         59  62   UT     LY1CT      59    51       KD      
+QSO:  3500 PH 2022-01-09 0734 LY3NX         59  63   UT     OG5O       59    36       UU      
+QSO:  3500 PH 2022-01-09 0737 LY3NX         59  64   UT     YL2QG      59    44       LI      
+QSO:  3500 PH 2022-01-09 0738 LY3NX         59  65   UT     LC6C       59    26       HO      
+QSO:  3500 PH 2022-01-09 0740 LY3NX         59  66   UT     OH1SIC     59    60       VA      
+QSO:  7000 PH 2022-01-09 0742 LY3NX         59  67   UT     OH6RE      59    78       KE      
+QSO:  7000 PH 2022-01-09 0743 LY3NX         59  68   UT     ES6RW      59   136       VO      
+QSO:  7000 PH 2022-01-09 0743 LY3NX         59  69   UT     OH3Z       59   110       VA      
+QSO:  7000 PH 2022-01-09 0744 LY3NX         59  70   UT     LY2XW      59   100       UT      
+QSO:  7000 PH 2022-01-09 0745 LY3NX         59  71   UT     OZ1ADL     59    98       VJ      
+QSO:  7000 PH 2022-01-09 0745 LY3NX         59  72   UT     ES5TV      59   156       JG      
+QSO:  7000 PH 2022-01-09 0747 LY3NX         59  73   UT     LY4A       59   142       SA      
+QSO:  7000 PH 2022-01-09 0748 LY3NX         59  74   UT     ES7A       59   100       VP      
+QSO:  7000 PH 2022-01-09 0751 LY3NX         59  75   UT     LY7M       59   120       UT      
+QSO:  7000 PH 2022-01-09 0751 LY3NX         59  76   UT     SE5E       59   124       UP      
+QSO:  7000 PH 2022-01-09 0752 LY3NX         59  77   UT     LY2BKT     59    84       SI      
+QSO:  7000 PH 2022-01-09 0754 LY3NX         59  78   UT     OH8UV      59    61       PP      
+QSO:  7000 PH 2022-01-09 0754 LY3NX         59  79   UT     ES6PA      59    53       VO      
+QSO:  7000 PH 2022-01-09 0756 LY3NX         59  80   UT     YL2KO      59   169       AU      
+QSO:  7000 PH 2022-01-09 0757 LY3NX         59  81   UT     LY1FW      59   107       MM      
+QSO:  7000 PH 2022-01-09 0757 LY3NX         59  82   UT     LY3BN      59   120       KN      
+QSO:  7000 PH 2022-01-09 0758 LY3NX         59  83   UT     YL2GD      59   120       AU      
+QSO:  7000 PH 2022-01-09 0759 LY3NX         59  84   UT     ES7GM      59   184       VP      
+QSO:  7000 PH 2022-01-09 0759 LY3NX         59  85   UT     LY2CX      59   110       KI      
+QSO:  7000 PH 2022-01-09 0801 LY3NX         59  86   UT     SK5A       59   128       VM      
+QSO:  7000 PH 2022-01-09 0802 LY3NX         59  87   UT     OH8JIX     59    46       PM      
+QSO:  7000 PH 2022-01-09 0802 LY3NX         59  88   UT     LY2MC      59    77       TI      
+QSO:  7000 PH 2022-01-09 0802 LY3NX         59  89   UT     LY0NAS     59    45       PA      
+QSO:  7000 PH 2022-01-09 0804 LY3NX         59  90   UT     OH2T       59    93       UU      
+QSO:  7000 PH 2022-01-09 0806 LY3NX         59  91   UT     YL2PP      59   107       RR      
+QSO:  7000 PH 2022-01-09 0806 LY3NX         59  92   UT     YL5W       59    87       BV      
+QSO:  7000 PH 2022-01-09 0807 LY3NX         59  93   UT     LY2AX      59   129       KN      
+QSO:  7000 PH 2022-01-09 0809 LY3NX         59  94   UT     OZ30EU     59   126       BH      
+QSO:  7000 PH 2022-01-09 0810 LY3NX         59  95   UT     YL7A       59   125       VK      
+QSO:  7000 PH 2022-01-09 0811 LY3NX         59  96   UT     SM2M       59   150       VB      
+QSO:  7000 PH 2022-01-09 0811 LY3NX         59  97   UT     OH8L       59   129       PP      
+QSO:  7000 PH 2022-01-09 0812 LY3NX         59  98   UT     YL1ZF      59    98       RR      
+QSO:  7000 PH 2022-01-09 0813 LY3NX         59  99   UT     LY5GT      59    75       VV      
+QSO:  7000 PH 2022-01-09 0814 LY3NX         59  100  UT     OH2CV      59    71       PH      
+QSO:  7000 PH 2022-01-09 0814 LY3NX         59  101  UT     LY4MP      59    42       KI      
+QSO:  7000 PH 2022-01-09 0815 LY3NX         59  102  UT     LA7AK      59    60       RL      
+QSO:  7000 PH 2022-01-09 0816 LY3NX         59  103  UT     LY3IZ      59    67       UT      
+QSO:  7000 PH 2022-01-09 0816 LY3NX         59  104  UT     OH2KI      59   140       KT      
+QSO:  7000 PH 2022-01-09 0817 LY3NX         59  105  UT     ES1TAR     59    59       TL      
+END-OF-LOG: 

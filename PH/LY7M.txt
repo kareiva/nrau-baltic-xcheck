@@ -1,0 +1,220 @@
+START-OF-LOG: 3.0
+LOCATION: DX
+CONTEST: NRAU-BALTIC-SSB
+CALLSIGN: LY7M
+GRID-LOCATOR: KO25OL
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CATEGORY-POWER: HIGH
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CLAIMED-SCORE: 41764
+OPERATORS: LY7M
+CLUB: Vytautas Magnus University  radio club
+NAME: Algirdas Uzdonas
+ADDRESS: Kvarco 30
+ADDRESS: Anyksciai
+ADDRESS: Lithuania
+ADDRESS: LT 29105
+EMAIL: algisly7m@gmail.com
+CREATED-BY: 5MContest ver.8.0.4
+SOAPBOX: 
+QSO:  3611 PH 2022-01-09 0630 LY7M          59  001 UT     OZ1ADL        59  001 VJ      
+QSO:  3611 PH 2022-01-09 0630 LY7M          59  002 UT     LY5T          59  001 AT      
+QSO:  3611 PH 2022-01-09 0630 LY7M          59  003 UT     LY7W          59  001 KI      
+QSO:  3611 PH 2022-01-09 0631 LY7M          59  004 UT     OG6B          59  001 PH      
+QSO:  3611 PH 2022-01-09 0631 LY7M          59  005 UT     YL2VW         59  003 RR      
+QSO:  3611 PH 2022-01-09 0631 LY7M          59  006 UT     YL3KW         59  001 VK      
+QSO:  3611 PH 2022-01-09 0631 LY7M          59  007 UT     OG4W          59  002 ES      
+QSO:  3611 PH 2022-01-09 0632 LY7M          59  008 UT     ES8GP         59  003 PU      
+QSO:  3611 PH 2022-01-09 0632 LY7M          59  009 UT     LY2XW         59  002 UT      
+QSO:  3611 PH 2022-01-09 0632 LY7M          59  010 UT     OH3Z          59  003 VA      
+QSO:  3611 PH 2022-01-09 0632 LY7M          59  011 UT     LY3IZ         59  002 UT      
+QSO:  3611 PH 2022-01-09 0633 LY7M          59  012 UT     LY4G          59  007 PN      
+QSO:  3611 PH 2022-01-09 0633 LY7M          59  013 UT     LY1LB         59  002 KN      
+QSO:  3611 PH 2022-01-09 0633 LY7M          59  014 UT     LC6C          59  001 HO      
+QSO:  3611 PH 2022-01-09 0633 LY7M          59  015 UT     ES5TV         59  001 JG      
+QSO:  3611 PH 2022-01-09 0633 LY7M          59  016 UT     SM5ACQ        59  004 VM      
+QSO:  3611 PH 2022-01-09 0634 LY7M          59  017 UT     ES2RR         59  002 HR      
+QSO:  3611 PH 2022-01-09 0634 LY7M          59  018 UT     YL3AND        59  003 TS      
+QSO:  3611 PH 2022-01-09 0635 LY7M          59  019 UT     OH8NW         59  005 VA      
+QSO:  3611 PH 2022-01-09 0635 LY7M          59  020 UT     LY1CT         59  005 KD      
+QSO:  3611 PH 2022-01-09 0635 LY7M          59  021 UT     LY0NAS        59  002 PA      
+QSO:  3611 PH 2022-01-09 0636 LY7M          59  022 UT     SB7A          59  002 SE      
+QSO:  3611 PH 2022-01-09 0636 LY7M          59  023 UT     LY2CX         59  001 KI      
+QSO:  3611 PH 2022-01-09 0636 LY7M          59  024 UT     OZ2PPS        59  006 VS      
+QSO:  3611 PH 2022-01-09 0636 LY7M          59  025 UT     LY3LT         59  007 VV      
+QSO:  3611 PH 2022-01-09 0636 LY7M          59  026 UT     SE5E          59  010 UP      
+QSO:  3611 PH 2022-01-09 0637 LY7M          59  027 UT     LY4Q          59  009 KN      
+QSO:  3611 PH 2022-01-09 0637 LY7M          59  028 UT     OH1NA         59  010 SA      
+QSO:  3611 PH 2022-01-09 0637 LY7M          59  029 UT     LC2L          59  001 OS      
+QSO:  3611 PH 2022-01-09 0639 LY7M          59  030 UT     LA8MOA        59  002 VF      
+QSO:  3611 PH 2022-01-09 0639 LY7M          59  031 UT     ES5NHC        59  009 TA      
+QSO:  3611 PH 2022-01-09 0639 LY7M          59  032 UT     ES5YG         59  005 TA      
+QSO:  3611 PH 2022-01-09 0640 LY7M          59  033 UT     OH8UV         59  007 PP      
+QSO:  3611 PH 2022-01-09 0641 LY7M          59  034 UT     YL3GQ         59  004 JE      
+QSO:  3611 PH 2022-01-09 0641 LY7M          59  035 UT     LY3NX         59  014 UT      
+QSO:  3611 PH 2022-01-09 0642 LY7M          59  036 UT     ES6RBX        59  002 PL      
+QSO:  3611 PH 2022-01-09 0642 LY7M          59  037 UT     YL3ALN        59  009 RE      
+QSO:  3611 PH 2022-01-09 0643 LY7M          59  038 UT     ES5RIM        59  007 JG      
+QSO:  3611 PH 2022-01-09 0643 LY7M          59  039 UT     OH3LS         59  009 PM      
+QSO:  3611 PH 2022-01-09 0644 LY7M          59  040 UT     LY2ON         59  001 KI      
+QSO:  3611 PH 2022-01-09 0644 LY7M          59  041 UT     YL2QG         59  008 LI      
+QSO:  3611 PH 2022-01-09 0646 LY7M          59  042 UT     ES1BH         59  018 TL      
+QSO:  3600 PH 2022-01-09 0647 LY7M          59  043 UT     LY4A          59  046 SU      
+QSO:  3608 PH 2022-01-09 0648 LY7M          59  044 UT     SA1CCQ        59  010 GO      
+QSO:  3613 PH 2022-01-09 0648 LY7M          59  045 UT     YL2SM         59  030 AU      
+QSO:  3616 PH 2022-01-09 0648 LY7M          59  046 UT     OZ5W          59  029 VS      
+QSO:  3618 PH 2022-01-09 0649 LY7M          59  047 UT     OH8L          59  021 PP      
+QSO:  3621 PH 2022-01-09 0649 LY7M          59  048 UT     LY6A          59  032 KN      
+QSO:  3624 PH 2022-01-09 0650 LY7M          59  049 UT     SM2M          59  040 VB      
+QSO:  3628 PH 2022-01-09 0650 LY7M          59  050 UT     LY5XX         59  035 MM      
+QSO:  3633 PH 2022-01-09 0651 LY7M          59  051 UT     LY3BN         59  025 KN      
+QSO:  3636 PH 2022-01-09 0652 LY7M          59  052 UT     ES6RMR        59  019 VC      
+QSO:  3637 PH 2022-01-09 0652 LY7M          59  053 UT     ES7GM         59  057 VP      
+QSO:  3712 PH 2022-01-09 0653 LY7M          59  054 UT     ES7A          59  040 VP      
+QSO:  3715 PH 2022-01-09 0654 LY7M          59  055 UT     LY2K          59  024 AT      
+QSO:  3721 PH 2022-01-09 0654 LY7M          59  056 UT     OH2PM         59  032 VA      
+QSO:  3727 PH 2022-01-09 0657 LY7M          59  057 UT     OH2KI         59  048 KT      
+QSO:  3735 PH 2022-01-09 0658 LY7M          59  058 UT     OH2KW         59  025 UU      
+QSO:  3739 PH 2022-01-09 0658 LY7M          59  059 UT     LY2AX         59  052 KN      
+QSO:  3744 PH 2022-01-09 0659 LY7M          59  060 UT     YL2KO         59  069 AU      
+QSO:  3747 PH 2022-01-09 0659 LY7M          59  061 UT     YL2PP         59  040 RR      
+QSO:  3751 PH 2022-01-09 0700 LY7M          59  062 UT     OH8X          59  055 PP      
+QSO:  3754 PH 2022-01-09 0700 LY7M          59  063 UT     YL9T          59  050 VK      
+QSO:  3758 PH 2022-01-09 0700 LY7M          59  064 UT     YL2PJ         59  053 RE      
+QSO:  3759 PH 2022-01-09 0701 LY7M          59  065 UT     OH2CV         59  025 PH      
+QSO:  3761 PH 2022-01-09 0701 LY7M          59  066 UT     YL5W          59  026 BV      
+QSO:  3772 PH 2022-01-09 0702 LY7M          59  067 UT     LY4NZ         59  018 VU      
+QSO:  3770 PH 2022-01-09 0706 LY7M          59  068 UT     LC1R          59  028 TR      
+QSO:  3770 PH 2022-01-09 0707 LY7M          59  069 UT     LY5GT         59  030 VV      
+QSO:  3770 PH 2022-01-09 0707 LY7M          59  070 UT     LY5I          59  047 UT      
+QSO:  3770 PH 2022-01-09 0708 LY7M          59  071 UT     YL2KN         59  022 AU      
+QSO:  3770 PH 2022-01-09 0709 LY7M          59  072 UT     ES2GW         59  026 HR      
+QSO:  3770 PH 2022-01-09 0710 LY7M          59  073 UT     SM5DXR        59  019 VM      
+QSO:  3770 PH 2022-01-09 0711 LY7M          59  074 UT     OH1TP         59  023 SA      
+QSO:  3770 PH 2022-01-09 0711 LY7M          59  075 UT     YL2QV         59  030 JP      
+QSO:  3770 PH 2022-01-09 0712 LY7M          59  076 UT     LY5YY         59  041 KM      
+QSO:  3770 PH 2022-01-09 0712 LY7M          59  077 UT     OH7JL         59  027 PK      
+QSO:  3770 PH 2022-01-09 0712 LY7M          59  078 UT     YL2NK         59  033 LI      
+QSO:  3770 PH 2022-01-09 0713 LY7M          59  079 UT     OH2T          59  056 UU      
+QSO:  3770 PH 2022-01-09 0714 LY7M          59  080 UT     SE6K          59  017 HA      
+QSO:  3770 PH 2022-01-09 0715 LY7M          59  081 UT     LB9KI         59  002 VF      
+QSO:  3770 PH 2022-01-09 0716 LY7M          59  082 UT     OH1SIC        59  046 VA      
+QSO:  3770 PH 2022-01-09 0716 LY7M          59  083 UT     YL7A          59  073 VK      
+QSO:  3770 PH 2022-01-09 0718 LY7M          59  084 UT     LY3BT         59  016 AT      
+QSO:  3770 PH 2022-01-09 0719 LY7M          59  085 UT     LB9JI         59  004 VF      
+QSO:  3770 PH 2022-01-09 0722 LY7M          59  086 UT     OZ3SM         59  015 KH      
+QSO:  3770 PH 2022-01-09 0722 LY7M          59  087 UT     LY5DD         59  033 MM      
+QSO:  3753 PH 2022-01-09 0725 LY7M          59  088 UT     YL2BJ         59  091 VR      
+QSO:  3709 PH 2022-01-09 0728 LY7M          59  089 UT     LY2MC         59  050 TI      
+QSO:  3709 PH 2022-01-09 0729 LY7M          59  090 UT     OH7KC         59  025 PS      
+QSO:  3709 PH 2022-01-09 0730 LY7M          59  091 UT     LY4MP         59  023 KI      
+QSO:  3707 PH 2022-01-09 0732 LY7M          59  092 UT     YL2GD         59  085 AU      
+QSO:  3700 PH 2022-01-09 0732 LY7M          59  093 UT     SK5A          59  080 VM      
+QSO:  7131 PH 2022-01-09 0735 LY7M          59  094 UT     ES7GM         59  126 VP      
+QSO:  7067 PH 2022-01-09 0736 LY7M          59  095 UT     ES1BH         59  042 TL      
+QSO:  7072 PH 2022-01-09 0737 LY7M          59  096 UT     OH8L          59  094 PP      
+QSO:  7083 PH 2022-01-09 0738 LY7M          59  097 UT     LY6A          59  090 KN      
+QSO:  7086 PH 2022-01-09 0738 LY7M          59  098 UT     LY4A          59  123 SU      
+QSO:  7090 PH 2022-01-09 0739 LY7M          59  099 UT     OZ1ADL        59  086 VJ      
+QSO:  7093 PH 2022-01-09 0739 LY7M          59  100 UT     OH2KW         59  049 UU      
+QSO:  7097 PH 2022-01-09 0739 LY7M          59  101 UT     ES5TV         59  140 JG      
+QSO:  7099 PH 2022-01-09 0740 LY7M          59  102 UT     OH8X          59  109 PP      
+QSO:  7141 PH 2022-01-09 0740 LY7M          59  103 UT     YL2BJ         59  112 VR      
+QSO:  7152 PH 2022-01-09 0742 LY7M          59  104 UT     OG4W          59  074 ES      
+QSO:  7155 PH 2022-01-09 0742 LY7M          59  105 UT     SM2M          59  110 VB      
+QSO:  7161 PH 2022-01-09 0742 LY7M          59  106 UT     YL2KO         59  132 AU      
+QSO:  7172 PH 2022-01-09 0743 LY7M          59  107 UT     OZ30EU        59  082 BH      
+QSO:  7181 PH 2022-01-09 0744 LY7M          59  108 UT     ES5NY         59  042 JG      
+QSO:  7141 PH 2022-01-09 0745 LY7M          59  109 UT     LY3BN         59  092 KN      
+QSO:  7143 PH 2022-01-09 0746 LY7M          59  110 UT     OZ2PBS        59  057 VS      
+QSO:  7148 PH 2022-01-09 0746 LY7M          59  111 UT     ES2MC         59  146 HR      
+QSO:  7150 PH 2022-01-09 0747 LY7M          59  112 UT     OH1F          59  118 SA      
+QSO:  7153 PH 2022-01-09 0748 LY7M          59  113 UT     ES2O          59  060 HR      
+QSO:  7153 PH 2022-01-09 0749 LY7M          59  114 UT     OH8NW         59  096 VA      
+QSO:  7153 PH 2022-01-09 0749 LY7M          59  115 UT     YL2NK         59  057 LI      
+QSO:  7153 PH 2022-01-09 0749 LY7M          59  116 UT     OZ9HZ         59  023 SJ      
+QSO:  7153 PH 2022-01-09 0750 LY7M          59  117 UT     LC1R          59  085 TR      
+QSO:  7153 PH 2022-01-09 0750 LY7M          59  118 UT     LA6CDA        59  031 VF      
+QSO:  7153 PH 2022-01-09 0750 LY7M          59  119 UT     OH2PM         59  087 VA      
+QSO:  7153 PH 2022-01-09 0750 LY7M          59  120 UT     LY3NX         59  075 UT      
+QSO:  7153 PH 2022-01-09 0751 LY7M          59  121 UT     LY4G          59  097 PN      
+QSO:  7153 PH 2022-01-09 0751 LY7M          59  122 UT     LA1TV         59  054 VF      
+QSO:  7153 PH 2022-01-09 0752 LY7M          59  123 UT     OH1TP         59  035 SA      
+QSO:  7153 PH 2022-01-09 0752 LY7M          59  124 UT     OZ3SM         59  026 KH      
+QSO:  7153 PH 2022-01-09 0752 LY7M          59  125 UT     YL1ZF         59  072 RR      
+QSO:  7153 PH 2022-01-09 0753 LY7M          59  126 UT     OV3C          59  034 KH      
+QSO:  7153 PH 2022-01-09 0753 LY7M          59  127 UT     OG6B          59  049 PH      
+QSO:  7153 PH 2022-01-09 0753 LY7M          59  128 UT     OH1SIC        59  064 VA      
+QSO:  7153 PH 2022-01-09 0754 LY7M          59  129 UT     OH2KI         59  114 KT      
+QSO:  7153 PH 2022-01-09 0754 LY7M          59  130 UT     ES2GW         59  047 HR      
+QSO:  7153 PH 2022-01-09 0754 LY7M          59  131 UT     OZ1KKH        59  034 VJ      
+QSO:  7153 PH 2022-01-09 0755 LY7M          59  132 UT     OH8JIX        59  043 PM      
+QSO:  7153 PH 2022-01-09 0755 LY7M          59  133 UT     OH2T          59  086 UU      
+QSO:  7153 PH 2022-01-09 0755 LY7M          59  134 UT     LC2L          59  024 OS      
+QSO:  7153 PH 2022-01-09 0755 LY7M          59  135 UT     OH1NA         59  079 SA      
+QSO:  7153 PH 2022-01-09 0756 LY7M          59  136 UT     SE5N          59  061 SO      
+QSO:  7153 PH 2022-01-09 0756 LY7M          59  137 UT     LB1R          59  022 VF      
+QSO:  7153 PH 2022-01-09 0756 LY7M          59  138 UT     LY2TS         59  103 TI      
+QSO:  7153 PH 2022-01-09 0757 LY7M          59  139 UT     SM5DXR        59  044 VM      
+QSO:  7153 PH 2022-01-09 0757 LY7M          59  140 UT     YL2PJ         59  110 RE      
+QSO:  7153 PH 2022-01-09 0757 LY7M          59  141 UT     OZ4NA         59  051 NJ      
+QSO:  7153 PH 2022-01-09 0758 LY7M          59  142 UT     TF2LL         59  021 IS      
+QSO:  7153 PH 2022-01-09 0758 LY7M          59  143 UT     OZ8DK         59  043 VJ      
+QSO:  7153 PH 2022-01-09 0759 LY7M          59  144 UT     YL7A          59  113 VK      
+QSO:  7153 PH 2022-01-09 0800 LY7M          59  145 UT     SB7A          59  021 SE      
+QSO:  7153 PH 2022-01-09 0800 LY7M          59  146 UT     LY2MM         59  090 KM      
+QSO:  7153 PH 2022-01-09 0800 LY7M          59  147 UT     ES8GP         59  111 PU      
+QSO:  7153 PH 2022-01-09 0801 LY7M          59  148 UT     LB6VI         59  015 TR      
+QSO:  7153 PH 2022-01-09 0801 LY7M          59  149 UT     YL2SM         59  128 AU      
+QSO:  7153 PH 2022-01-09 0801 LY7M          59  150 UT     OZ1NKS        59  034 BH      
+QSO:  7153 PH 2022-01-09 0801 LY7M          59  151 UT     LY2XW         59  122 UT      
+QSO:  7153 PH 2022-01-09 0802 LY7M          59  152 UT     OH7KC         59  043 PS      
+QSO:  7153 PH 2022-01-09 0802 LY7M          59  153 UT     LY1LB         59  082 KN      
+QSO:  7153 PH 2022-01-09 0802 LY7M          59  154 UT     LY4MP         59  036 KI      
+QSO:  7153 PH 2022-01-09 0802 LY7M          59  155 UT     LY4LA         59  064 KD      
+QSO:  7153 PH 2022-01-09 0802 LY7M          59  156 UT     LY3LT         59  057 VV      
+QSO:  7153 PH 2022-01-09 0803 LY7M          59  157 UT     LY2ON         59  023 KI      
+QSO:  7153 PH 2022-01-09 0803 LY7M          59  158 UT     YL2QV         59  074 JP      
+QSO:  7153 PH 2022-01-09 0804 LY7M          59  159 UT     LY5XX         59  108 MM      
+QSO:  7153 PH 2022-01-09 0806 LY7M          59  160 UT     SE5W          59  024 UP      
+QSO:  7153 PH 2022-01-09 0806 LY7M          59  161 UT     ES8JX         59  031 PU      
+QSO:  7153 PH 2022-01-09 0806 LY7M          59  162 UT     OG5O          59  067 UU      
+QSO:  7153 PH 2022-01-09 0807 LY7M          59  163 UT     YL2EM         59  074 RE      
+QSO:  7153 PH 2022-01-09 0807 LY7M          59  164 UT     LY5T          59  062 AT      
+QSO:  7153 PH 2022-01-09 0807 LY7M          59  165 UT     LY5GT         59  068 VV      
+QSO:  7153 PH 2022-01-09 0808 LY7M          59  166 UT     YL2KN         59  051 AU      
+QSO:  7153 PH 2022-01-09 0808 LY7M          59  167 UT     YL3JA         59  151 TU      
+QSO:  7153 PH 2022-01-09 0808 LY7M          59  168 UT     ES7A          59  126 VP      
+QSO:  7153 PH 2022-01-09 0808 LY7M          59  169 UT     LY5YY         59  090 KM      
+QSO:  7153 PH 2022-01-09 0809 LY7M          59  170 UT     YL2TD         59  023 RR      
+QSO:  7153 PH 2022-01-09 0809 LY7M          59  171 UT     LY3IZ         59  061 UT      
+QSO:  7153 PH 2022-01-09 0809 LY7M          59  172 UT     OH2CV         59  068 PH      
+QSO:  7153 PH 2022-01-09 0809 LY7M          59  173 UT     ES2RR         59  135 HR      
+QSO:  7153 PH 2022-01-09 0810 LY7M          59  174 UT     ES1TAR        59  052 TL      
+QSO:  7153 PH 2022-01-09 0810 LY7M          59  175 UT     ES8AY         59  023 PU      
+QSO:  7153 PH 2022-01-09 0810 LY7M          59  176 UT     LY2AX         59  134 KN      
+QSO:  7153 PH 2022-01-09 0811 LY7M          59  177 UT     YL9T          59  149 VK      
+QSO:  7153 PH 2022-01-09 0811 LY7M          59  178 UT     YL3FW         59  046 LI      
+QSO:  7153 PH 2022-01-09 0812 LY7M          59  179 UT     OH7JL         59  060 PK      
+QSO:  7153 PH 2022-01-09 0813 LY7M          59  180 UT     OZ5W          59  114 VS      
+QSO:  7153 PH 2022-01-09 0814 LY7M          59  181 UT     LA2DH         59  020 VF      
+QSO:  7153 PH 2022-01-09 0814 LY7M          59  182 UT     YL2VW         59  146 RR      
+QSO:  7153 PH 2022-01-09 0814 LY7M          59  183 UT     LY0NAS        59  055 PA      
+QSO:  7153 PH 2022-01-09 0815 LY7M          59  184 UT     LY7W          59  082 KI      
+QSO:  7153 PH 2022-01-09 0815 LY7M          59  185 UT     LY2CX         59  125 KI      
+QSO:  7153 PH 2022-01-09 0816 LY7M          59  186 UT     OZ1KF         59  018 VJ      
+QSO:  7153 PH 2022-01-09 0816 LY7M          59  187 UT     SK5A          59  153 VM      
+QSO:  7153 PH 2022-01-09 0817 LY7M          59  188 UT     YL3AD         59  062 RR      
+QSO:  7153 PH 2022-01-09 0817 LY7M          59  189 UT     LA5WNA        59  031 IN      
+QSO:  7083 PH 2022-01-09 0818 LY7M          59  190 UT     SA1CCQ        59  108 GO      
+QSO:  7073 PH 2022-01-09 0820 LY7M          59  191 UT     OH3Z          59  165 VA      
+QSO:  7140 PH 2022-01-09 0823 LY7M          59  192 UT     LY4NZ         59  041 VU      
+QSO:  7158 PH 2022-01-09 0825 LY7M          59  193 UT     LY4Q          59  146 KN      
+QSO:  7164 PH 2022-01-09 0826 LY7M          59  194 UT     YL2QG         59  092 LI      
+QSO:  7186 PH 2022-01-09 0828 LY7M          59  195 UT     LY3BT         59  042 AT      
+QSO:  7186 PH 2022-01-09 0828 LY7M          59  196 UT     LY4K          59  079 KM      
+QSO:  7186 PH 2022-01-09 0829 LY7M          59  197 UT     OH3BRJ        59  007 PM      
+END-OF-LOG:

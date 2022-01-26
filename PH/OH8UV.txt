@@ -1,0 +1,102 @@
+START-OF-LOG: 3.0
+CREATED-BY: TR4W v.4.39.0
+CALLSIGN: OH8UV
+CONTEST: NRAU-BALTIC-SSB
+CLAIMED-SCORE: 8964
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-POWER: LOW
+CLUB: OH8AA
+NAME: Markku Korhonen
+ADDRESS: Kellontie 256
+ADDRESS-CITY: Kello
+ADDRESS-POSTALCODE: 90820
+ADDRESS-COUNTRY: Finland
+EMAIL: oh8uv@sral.fi
+QSO:  3500 PH 2022-01-09 0632 OH8UV         59  1    PP     OF1F          59  4    SA      
+QSO:  3500 PH 2022-01-09 0632 OH8UV         59  2    PP     ES7GM         59  8    VP      
+QSO:  3500 PH 2022-01-09 0632 OH8UV         59  3    PP     ES5TV         59  9    JG      
+QSO:  3500 PH 2022-01-09 0633 OH8UV         59  4    PP     OZ5W          59  10   VS      
+QSO:  3500 PH 2022-01-09 0637 OH8UV         59  5    PP     LY4A          59  28   SU      
+QSO:  3500 PH 2022-01-09 0639 OH8UV         59  6    PP     YL2SM         59  16   AU      
+QSO:  3500 PH 2022-01-09 0640 OH8UV         59  7    PP     LY7M          59  33   UT      
+QSO:  3500 PH 2022-01-09 0641 OH8UV         59  8    PP     YL3JA         59  34   TU      
+QSO:  3500 PH 2022-01-09 0644 OH8UV         59  9    PP     OZ1ADL        59  18   VJ      
+QSO:  3500 PH 2022-01-09 0645 OH8UV         59  10   PP     ES2RR         59  26   HR      
+QSO:  3500 PH 2022-01-09 0646 OH8UV         59  11   PP     YL2GD         59  31   AU      
+QSO:  3500 PH 2022-01-09 0648 OH8UV         59  12   PP     ES7A          59  29   VP      
+QSO:  3500 PH 2022-01-09 0652 OH8UV         59  13   PP     ES2MC         59  61   HR      
+QSO:  3500 PH 2022-01-09 0652 OH8UV         59  14   PP     OH2KI         59  40   KT      
+QSO:  3500 PH 2022-01-09 0655 OH8UV         59  15   PP     ES5NY         59  18   JG      
+QSO:  3500 PH 2022-01-09 0655 OH8UV         59  16   PP     OH2KW         59  23   UU      
+QSO:  3500 PH 2022-01-09 0656 OH8UV         59  17   PP     LY2AX         59  49   KN      
+QSO:  3500 PH 2022-01-09 0656 OH8UV         59  18   PP     YL2KO         59  67   AU      
+QSO:  3500 PH 2022-01-09 0659 OH8UV         59  19   PP     YL2PP         59  39   RR      
+QSO:  3500 PH 2022-01-09 0659 OH8UV         59  20   PP     OH8X          59  54   PP      
+QSO:  3500 PH 2022-01-09 0700 OH8UV         59  21   PP     YL9T          59  49   VK      
+QSO:  3500 PH 2022-01-09 0701 OH8UV         59  22   PP     YL2PJ         59  54   RE      
+QSO:  3500 PH 2022-01-09 0702 OH8UV         59  23   PP     OH2CV         59  26   PH      
+QSO:  3500 PH 2022-01-09 0704 OH8UV         59  24   PP     LC1R          59  25   TR      
+QSO:  3500 PH 2022-01-09 0705 OH8UV         59  25   PP     YL2KN         59  20   AU      
+QSO:  3500 PH 2022-01-09 0706 OH8UV         59  26   PP     OH1TP         59  20   SA      
+QSO:  3500 PH 2022-01-09 0709 OH8UV         59  27   PP     OH7JL         59  25   PK      
+QSO:  3500 PH 2022-01-09 0710 OH8UV         59  28   PP     OG4W          59  42   ES      
+QSO:  3500 PH 2022-01-09 0711 OH8UV         59  29   PP     ES8GP         59  71   PU      
+QSO:  3500 PH 2022-01-09 0712 OH8UV         59  30   PP     OH8L          59  59   PP      
+QSO:  3500 PH 2022-01-09 0713 OH8UV         59  31   PP     LY1FW         59  58   MM      
+QSO:  7000 PH 2022-01-09 0723 OH8UV         59  32   PP     LY5I          59  59   UT      
+QSO:  7000 PH 2022-01-09 0725 OH8UV         59  33   PP     LY5GT         59  44   VV      
+QSO:  7000 PH 2022-01-09 0726 OH8UV         59  34   PP     YL2EM         59  44   RE      
+QSO:  7000 PH 2022-01-09 0726 OH8UV         59  35   PP     SE5E          59  84   UP      
+QSO:  7000 PH 2022-01-09 0727 OH8UV         59  36   PP     LY9A          59  87   PA      
+QSO:  7000 PH 2022-01-09 0727 OH8UV         59  37   PP     LY6A          59  77   KN      
+QSO:  7000 PH 2022-01-09 0728 OH8UV         59  38   PP     ES8GP         59  84   PU      
+QSO:  7000 PH 2022-01-09 0729 OH8UV         59  39   PP     ES8JX         59  17   PU      
+QSO:  7000 PH 2022-01-09 0730 OH8UV         59  40   PP     OZ30EU        59  63   BH      
+QSO:  7000 PH 2022-01-09 0730 OH8UV         59  41   PP     YL2GD         59  83   AU      
+QSO:  7000 PH 2022-01-09 0730 OH8UV         59  42   PP     LY2K          59  65   AT      
+QSO:  7000 PH 2022-01-09 0732 OH8UV         59  43   PP     ES5RIM        59  36   JG      
+QSO:  7000 PH 2022-01-09 0732 OH8UV         59  44   PP     ES2O          59  48   HR      
+QSO:  7000 PH 2022-01-09 0733 OH8UV         59  45   PP     ES5NHC        59  41   TA      
+QSO:  7000 PH 2022-01-09 0738 OH8UV         59  46   PP     YL7X          59  112  KG      
+QSO:  7000 PH 2022-01-09 0741 OH8UV         59  47   PP     ES2RR         59  114  HR      
+QSO:  7000 PH 2022-01-09 0743 OH8UV         59  48   PP     ES5TV         59  152  JG      
+QSO:  7000 PH 2022-01-09 0744 OH8UV         59  49   PP     LY4A          59  135  SU      
+QSO:  7000 PH 2022-01-09 0744 OH8UV         59  50   PP     YL2SM         59  108  AU      
+QSO:  7000 PH 2022-01-09 0745 OH8UV         59  51   PP     LY2XW         59  104  UT      
+QSO:  7000 PH 2022-01-09 0745 OH8UV         59  52   PP     ES7A          59  95   VP      
+QSO:  7000 PH 2022-01-09 0746 OH8UV         59  53   PP     ES6RW         59  141  VO      
+QSO:  7000 PH 2022-01-09 0747 OH8UV         59  54   PP     YL9T          59  116  VK      
+QSO:  7000 PH 2022-01-09 0748 OH8UV         59  55   PP     LY5T          59  47   AT      
+QSO:  7000 PH 2022-01-09 0750 OH8UV         59  56   PP     YL7A          59  101  VK      
+QSO:  7000 PH 2022-01-09 0751 OH8UV         59  57   PP     SE5N          59  60   SO      
+QSO:  7000 PH 2022-01-09 0751 OH8UV         59  58   PP     LY7W          59  65   KI      
+QSO:  7000 PH 2022-01-09 0752 OH8UV         59  59   PP     ES6PA         59  51   VO      
+QSO:  7000 PH 2022-01-09 0753 OH8UV         59  60   PP     OZ4NA         59  47   NJ      
+QSO:  7000 PH 2022-01-09 0754 OH8UV         59  61   PP     LY3NX         59  78   UT      
+QSO:  7000 PH 2022-01-09 0755 OH8UV         59  62   PP     LY0NAS        59  42   PA      
+QSO:  7000 PH 2022-01-09 0756 OH8UV         59  63   PP     SM5ACQ        59  60   VM      
+QSO:  7000 PH 2022-01-09 0756 OH8UV         59  64   PP     LY4G          59  106  PN      
+QSO:  7000 PH 2022-01-09 0800 OH8UV         59  65   PP     LY3BT         59  31   AT      
+QSO:  7000 PH 2022-01-09 0800 OH8UV         59  66   PP     LY4Q          59  116  KN      
+QSO:  7000 PH 2022-01-09 0801 OH8UV         59  67   PP     YL1ZF         59  84   RR      
+QSO:  7000 PH 2022-01-09 0802 OH8UV         59  68   PP     LY5DD         59  54   MM      
+QSO:  7000 PH 2022-01-09 0804 OH8UV         59  69   PP     YL2PJ         59  120  RE      
+QSO:  7000 PH 2022-01-09 0804 OH8UV         59  70   PP     OH2T          59  94   UU      
+QSO:  7000 PH 2022-01-09 0806 OH8UV         59  71   PP     OH1SIC        59  72   VA      
+QSO:  7000 PH 2022-01-09 0806 OH8UV         59  72   PP     SM5DXR        59  50   VM      
+QSO:  7000 PH 2022-01-09 0807 OH8UV         59  73   PP     YL3IR         59  31   GU      
+QSO:  7000 PH 2022-01-09 0808 OH8UV         59  74   PP     ES2GW         59  56   HR      
+QSO:  7000 PH 2022-01-09 0809 OH8UV         59  75   PP     ES5NY         59  57   JG      
+QSO:  7000 PH 2022-01-09 0810 OH8UV         59  76   PP     SK5A          59  146  VM      
+QSO:  7000 PH 2022-01-09 0810 OH8UV         59  77   PP     OG5O          59  69   UU      
+QSO:  7000 PH 2022-01-09 0814 OH8UV         59  78   PP     ES1BH         59  67   TL      
+QSO:  7000 PH 2022-01-09 0815 OH8UV         59  79   PP     YL2KO         59  209  AU      
+QSO:  7000 PH 2022-01-09 0821 OH8UV         59  80   PP     OH8NW         59  145  VA      
+QSO:  7000 PH 2022-01-09 0822 OH8UV         59  81   PP     LC1R          59  129  TR      
+QSO:  7000 PH 2022-01-09 0823 OH8UV         59  82   PP     SM5ACQ        59  100  VM      
+QSO:  7000 PH 2022-01-09 0828 OH8UV         59  83   PP     YL2PP         59  118  RR      
+QSO:  7000 PH 2022-01-09 0829 OH8UV         59  84   PP     OH2CV         59  80   PH      
+END-OF-LOG: 
