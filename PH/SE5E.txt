@@ -1,0 +1,194 @@
+START-OF-LOG: 3.0
+CREATED-BY: DXLog.net v2.5.28
+CONTEST: NRAU-SSB
+CALLSIGN: SE5E
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-POWER: HIGH
+GRID-LOCATOR: JO89LW
+CATEGORY-BAND: ALL
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 35148
+CLUB: SK3W
+NAME: Ingemar Fogelberg
+ADDRESS: Samjevagen 52
+ADDRESS: SE-162 71 VALLINGBY
+ADDRESS: SWEDEN
+EMAIL: sm5ajv@qrq.se
+OPERATORS: SM5AJV
+SOAPBOX: 
+QSO:  3649 PH 2022-01-09 0630 SE5E          59  0001 UP     ES5NHC        59   001 TA    
+QSO:  3628 PH 2022-01-09 0631 SE5E          59  0002 UP     LY5XX         59   003 MM    
+QSO:  3649 PH 2022-01-09 0632 SE5E          59  0003 UP     YL2VW         59   005 RR    
+QSO:  3649 PH 2022-01-09 0632 SE5E          59  0004 UP     ES5RIM        59   001 JG    
+QSO:  3649 PH 2022-01-09 0633 SE5E          59  0005 UP     LY2VO         59   002 SI    
+QSO:  3604 PH 2022-01-09 0634 SE5E          59  0006 UP     LY4A          59   019 SU    
+QSO:  3649 PH 2022-01-09 0635 SE5E          59  0007 UP     LY9A          59   012 PA    
+QSO:  3649 PH 2022-01-09 0635 SE5E          59  0008 UP     OH1SIC        59   008 VA    
+QSO:  3649 PH 2022-01-09 0636 SE5E          59  0009 UP     ES5YG         59   004 TA    
+QSO:  3611 PH 2022-01-09 0636 SE5E          59  0010 UP     LY7M          59   026 UT    
+QSO:  3649 PH 2022-01-09 0638 SE5E          59  0011 UP     SM2M          59   018 VP    
+QSO:  3649 PH 2022-01-09 0640 SE5E          59  0012 UP     ES1BH         59   009 TL    
+QSO:  3649 PH 2022-01-09 0641 SE5E          59  0013 UP     OH1F          59   017 SA    
+QSO:  3617 PH 2022-01-09 0642 SE5E          59  0014 UP     OZ5W          59   022 VS    
+QSO:  3631 PH 2022-01-09 0642 SE5E          59  0015 UP     YL3JA         59   036 TU    
+QSO:  3638 PH 2022-01-09 0643 SE5E          59  0016 UP     ES7GM         59   038 VP    
+QSO:  3704 PH 2022-01-09 0643 SE5E          59  0017 UP     ES6RW         59   032 VO    
+QSO:  3706 PH 2022-01-09 0643 SE5E          59  0018 UP     YL2BJ         59   025 VR    
+QSO:  3719 PH 2022-01-09 0643 SE5E          59  0019 UP     ES2MC         59   037 HR    
+QSO:  3641 PH 2022-01-09 0644 SE5E          59  0020 UP     LY2XW         59   022 UT    
+QSO:  3702 PH 2022-01-09 0644 SE5E          59  0021 UP     YL2GD         59   028 AU    
+QSO:  3615 PH 2022-01-09 0644 SE5E          59  0022 UP     YL7A          59   030 VK    
+QSO:  3716 PH 2022-01-09 0645 SE5E          59  0023 UP     YL7X          59   033 KG    
+QSO:  3713 PH 2022-01-09 0645 SE5E          59  0024 UP     ES7A          59   024 VP    
+QSO:  3626 PH 2022-01-09 0645 SE5E          59  0025 UP     ES5TV         59   043 JG    
+QSO:  3724 PH 2022-01-09 0646 SE5E          59  0026 UP     OH3Z          59   019 VA    
+QSO:  3727 PH 2022-01-09 0646 SE5E          59  0027 UP     OH2KI         59   029 KT    
+QSO:  3606 PH 2022-01-09 0647 SE5E          59  0028 UP     OH6RE         59   008 KE    
+QSO:  3739 PH 2022-01-09 0647 SE5E          59  0029 UP     LY2AX         59   029 KN    
+QSO:  3744 PH 2022-01-09 0647 SE5E          59  0030 UP     YL2KO         59   044 AU    
+QSO:  3741 PH 2022-01-09 0648 SE5E          59  0031 UP     ES8GP         59   020 PU    
+QSO:  3608 PH 2022-01-09 0648 SE5E          59  0032 UP     SA1CCQ        59   012 GO    
+QSO:  3760 PH 2022-01-09 0650 SE5E          59  0033 UP     OH2T          59   034 UU    
+QSO:  3768 PH 2022-01-09 0650 SE5E          59  0034 UP     LY5I          59   027 UT    
+QSO:  3754 PH 2022-01-09 0651 SE5E          59  0035 UP     YL9T          59   029 VK    
+QSO:  3613 PH 2022-01-09 0651 SE5E          59  0036 UP     YL2SM         59   037 AU    
+QSO:  3650 PH 2022-01-09 0651 SE5E          59  0037 UP     ES2RR         59   043 HR    
+QSO:  3729 PH 2022-01-09 0652 SE5E          59  0038 UP     OH8NW         59   031 VA    
+QSO:  3750 PH 2022-01-09 0652 SE5E          59  0039 UP     YL5W          59   021 BV    
+QSO:  3751 PH 2022-01-09 0652 SE5E          59  0040 UP     OH8X          59   035 PP    
+QSO:  3764 PH 2022-01-09 0653 SE5E          59  0041 UP     SK5A          59   029 VM    
+QSO:  3758 PH 2022-01-09 0653 SE5E          59  0042 UP     YL2PJ         59   040 RE    
+QSO:  3633 PH 2022-01-09 0654 SE5E          59  0043 UP     LY3BN         59   033 KN    
+QSO:  3619 PH 2022-01-09 0657 SE5E          59  0044 UP     YL1ZF         59   007 RR    
+QSO:  3645 PH 2022-01-09 0700 SE5E          59  0045 UP     LY2CX         59   039 KI    
+QSO:  3649 PH 2022-01-09 0701 SE5E          59  0046 UP     LY1CT         59   019 KD    
+QSO:  3649 PH 2022-01-09 0702 SE5E          59  0047 UP     OZ1NKF        59   005 VJ    
+QSO:  3649 PH 2022-01-09 0703 SE5E          59  0048 UP     OZ5PT         59   008 VS    
+QSO:  3649 PH 2022-01-09 0703 SE5E          59  0049 UP     OH8JIX        59   017 PM    
+QSO:  3649 PH 2022-01-09 0703 SE5E          59  0050 UP     ES5NY         59   023 JG    
+QSO:  3649 PH 2022-01-09 0704 SE5E          59  0051 UP     ES2O          59   014 HR    
+QSO:  3649 PH 2022-01-09 0705 SE5E          59  0052 UP     OZ30EU        59   044 BH    
+QSO:  3649 PH 2022-01-09 0706 SE5E          59  0053 UP     SM5E          59   001 SL    
+QSO:  3649 PH 2022-01-09 0706 SE5E          59  0054 UP     YL2EM         59   033 RE    
+QSO:  3649 PH 2022-01-09 0707 SE5E          59  0055 UP     YL3ALN        59   018 RE    
+QSO:  3649 PH 2022-01-09 0708 SE5E          59  0056 UP     LY2ON         59   008 KI    
+QSO:  3649 PH 2022-01-09 0708 SE5E          59  0057 UP     OZ2PBS        59   030 VS    
+QSO:  3649 PH 2022-01-09 0708 SE5E          59  0058 UP     LY2MC         59   037 TI    
+QSO:  3649 PH 2022-01-09 0709 SE5E          59  0059 UP     SE5N          59   028 SO    
+QSO:  3649 PH 2022-01-09 0709 SE5E          59  0060 UP     OV3C          59   010 KH    
+QSO:  3622 PH 2022-01-09 0710 SE5E          59  0061 UP     LY4LA         59   025 KD    
+QSO:  3649 PH 2022-01-09 0712 SE5E          59  0062 UP     OH3LS         59   023 PM    
+QSO:  3649 PH 2022-01-09 0713 SE5E          59  0063 UP     LY3LT         59   031 VV    
+QSO:  3649 PH 2022-01-09 0713 SE5E          59  0064 UP     SM5DXR        59   021 VM    
+QSO:  3649 PH 2022-01-09 0714 SE5E          59  0065 UP     OZ4NA         59   025 NJ    
+QSO:  3649 PH 2022-01-09 0715 SE5E          59  0066 UP     LY2MM         59   053 KM    
+QSO:  3649 PH 2022-01-09 0715 SE5E          59  0067 UP     ES2GW         59   029 HR    
+QSO:  3649 PH 2022-01-09 0716 SE5E          59  0068 UP     OG5O          59   018 UU    
+QSO:  3649 PH 2022-01-09 0716 SE5E          59  0069 UP     LY3IZ         59   028 UT    
+QSO:  3649 PH 2022-01-09 0717 SE5E          59  0070 UP     OH2CV         59   038 PH    
+QSO:  3649 PH 2022-01-09 0717 SE5E          59  0071 UP     LY0NAS        59   023 PA    
+QSO:  3649 PH 2022-01-09 0718 SE5E          59  0072 UP     OZ1NKS        59   017 BH    
+QSO:  3649 PH 2022-01-09 0718 SE5E          59  0073 UP     LC2L          59   010 OS    
+QSO:  3649 PH 2022-01-09 0719 SE5E          59  0074 UP     ES6RMR        59   059 VC    
+QSO:  3737 PH 2022-01-09 0720 SE5E          59  0075 UP     OH8L          59   072 PP    
+QSO:  3649 PH 2022-01-09 0722 SE5E          59  0076 UP     YL3AD         59   030 RR    
+QSO:  3649 PH 2022-01-09 0722 SE5E          59  0077 UP     ES6PA         59   036 VO    
+QSO:  7131 PH 2022-01-09 0723 SE5E          59  0078 UP     ES7GM         59   110 VP    
+QSO:  3723 PH 2022-01-09 0723 SE5E          59  0079 UP     LC1R          59   040 TR    
+QSO:  7141 PH 2022-01-09 0724 SE5E          59  0080 UP     LY5T          59   027 AT    
+QSO:  3649 PH 2022-01-09 0724 SE5E          59  0081 UP     OH1NA         59   053 SA    
+QSO:  3649 PH 2022-01-09 0725 SE5E          59  0082 UP     YL3FW         59   025 LI    
+QSO:  3649 PH 2022-01-09 0725 SE5E          59  0083 UP     SE6K          59   021 HA    
+QSO:  7154 PH 2022-01-09 0726 SE5E          59  0084 UP     OH8UV         59   035 PP    
+QSO:  3649 PH 2022-01-09 0728 SE5E          59  0085 UP     OZ0AP         59   005 RO    
+QSO:  3649 PH 2022-01-09 0729 SE5E          59  0086 UP     ES5GI         59   012 JG    
+QSO:  3649 PH 2022-01-09 0729 SE5E          59  0087 UP     YL2NK         59   045 LI    
+QSO:  3649 PH 2022-01-09 0730 SE5E          59  0088 UP     LY4K          59   043 KM    
+QSO:  3649 PH 2022-01-09 0731 SE5E          59  0089 UP     YL2PP         59   075 RR    
+QSO:  7147 PH 2022-01-09 0732 SE5E          59  0090 UP     LY9A          59   093 PA    
+QSO:  7147 PH 2022-01-09 0732 SE5E          59  0091 UP     LY2K          59   066 AT    
+QSO:  3649 PH 2022-01-09 0732 SE5E          59  0092 UP     SB7A          59   015 SE    
+QSO:  3649 PH 2022-01-09 0733 SE5E          59  0093 UP     LY1FW         59   074 MM    
+QSO:  7147 PH 2022-01-09 0733 SE5E          59  0094 UP     OH7JL         59   039 PK    
+QSO:  7147 PH 2022-01-09 0734 SE5E          59  0095 UP     LY3BN         59   073 KN    
+QSO:  3728 PH 2022-01-09 0735 SE5E          59  0096 UP     YL2QV         59   043 JP    
+QSO:  7147 PH 2022-01-09 0735 SE5E          59  0097 UP     LY4Q          59   073 KN    
+QSO:  3649 PH 2022-01-09 0736 SE5E          59  0098 UP     LY5YY         59   060 KM    
+QSO:  3649 PH 2022-01-09 0736 SE5E          59  0099 UP     LY4Q          59   077 KN    
+QSO:  3649 PH 2022-01-09 0737 SE5E          59  0100 UP     SD1A          59   023 GO    
+QSO:  7148 PH 2022-01-09 0738 SE5E          59  0101 UP     ES2MC         59   129 HR    
+QSO:  7152 PH 2022-01-09 0738 SE5E          59  0102 UP     OG4W          59   069 ES    
+QSO:  7155 PH 2022-01-09 0739 SE5E          59  0103 UP     SM2M          59   102 VB    
+QSO:  7161 PH 2022-01-09 0740 SE5E          59  0104 UP     YL2KO         59   124 AU    
+QSO:  7163 PH 2022-01-09 0740 SE5E          59  0105 UP     YL9T          59   103 VK    
+QSO:  7174 PH 2022-01-09 0741 SE5E          59  0106 UP     LY5XX         59   077 MM    
+QSO:  3649 PH 2022-01-09 0742 SE5E          59  0107 UP     SE5W          59   019 UP    
+QSO:  3649 PH 2022-01-09 0744 SE5E          59  0108 UP     LB9JI         59   008 VF    
+QSO:  7178 PH 2022-01-09 0744 SE5E          59  0109 UP     YL2VW         59   097 RR    
+QSO:  3649 PH 2022-01-09 0745 SE5E          59  0110 UP     LA5WN         59   021 IN    
+QSO:  3649 PH 2022-01-09 0745 SE5E          59  0111 UP     OZ8DK         59   037 VJ    
+QSO:  3649 PH 2022-01-09 0746 SE5E          59  0112 UP     LA2DH         59   014 VF    
+QSO:  7178 PH 2022-01-09 0746 SE5E          59  0113 UP     ES2RR         59   120 HR    
+QSO:  7178 PH 2022-01-09 0746 SE5E          59  0114 UP     OG6B          59   041 PH    
+QSO:  7178 PH 2022-01-09 0747 SE5E          59  0115 UP     OH2KW         59   055 UU    
+QSO:  7178 PH 2022-01-09 0747 SE5E          59  0116 UP     YL2PP         59   086 RR    
+QSO:  7178 PH 2022-01-09 0747 SE5E          59  0117 UP     YL3KW         59   034 VK    
+QSO:  7178 PH 2022-01-09 0748 SE5E          59  0118 UP     YL7X          59   124 KG    
+QSO:  7178 PH 2022-01-09 0748 SE5E          59  0119 UP     OH2KI         59   108 KT    
+QSO:  7178 PH 2022-01-09 0749 SE5E          59  0120 UP     YL3IR         59   024 GU    
+QSO:  7178 PH 2022-01-09 0749 SE5E          59  0121 UP     LY7W          59   063 KI    
+QSO:  7178 PH 2022-01-09 0750 SE5E          59  0122 UP     YL7A          59   100 VK    
+QSO:  7178 PH 2022-01-09 0750 SE5E          59  0123 UP     ES8GP         59   103 PU    
+QSO:  7178 PH 2022-01-09 0751 SE5E          59  0124 UP     LY3NX         59   076 UT    
+QSO:  7178 PH 2022-01-09 0752 SE5E          59  0125 UP     YL3AD         59   046 RR    
+QSO:  3649 PH 2022-01-09 0752 SE5E          59  0126 UP     LA9RY         59   007 RL    
+QSO:  3649 PH 2022-01-09 0753 SE5E          59  0127 UP     SB5X          59   018 OG    
+QSO:  3649 PH 2022-01-09 0754 SE5E          59  0128 UP     OH3GZ         59   019 KE    
+QSO:  7176 PH 2022-01-09 0756 SE5E          59  0129 UP     SK5A          59   117 VM    
+QSO:  7182 PH 2022-01-09 0757 SE5E          59  0130 UP     LY2BKT        59   096 SI    
+QSO:  7136 PH 2022-01-09 0758 SE5E          59  0131 UP     YL3JA         59   138 TU    
+QSO:  7195 PH 2022-01-09 0759 SE5E          59  0132 UP     SM5ACQ        59   069 VM    
+QSO:  7197 PH 2022-01-09 0800 SE5E          59  0133 UP     OH8X          59   133 PP    
+QSO:  7185 PH 2022-01-09 0800 SE5E          59  0134 UP     OH8L          59   116 PP    
+QSO:  7067 PH 2022-01-09 0802 SE5E          59  0135 UP     ES6RW         59   171 VO    
+QSO:  3649 PH 2022-01-09 0803 SE5E          59  0136 UP     LA7USA        59   006 HO    
+QSO:  3649 PH 2022-01-09 0803 SE5E          59  0137 UP     YL3AND        59   044 TS    
+QSO:  3649 PH 2022-01-09 0804 SE5E          59  0138 UP     SM7ATL        59   002 KA    
+QSO:  7086 PH 2022-01-09 0804 SE5E          59  0139 UP     LY4A          59   184 SU    
+QSO:  7100 PH 2022-01-09 0805 SE5E          59  0140 UP     LY5I          59   102 UT    
+QSO:  3649 PH 2022-01-09 0806 SE5E          59  0141 UP     LY3AB         59   001 TI    
+QSO:  3649 PH 2022-01-09 0808 SE5E          59  0142 UP     LY7W          59   077 KI    
+QSO:  3649 PH 2022-01-09 0808 SE5E          59  0143 UP     LY2K          59   092 AT    
+QSO:  3649 PH 2022-01-09 0809 SE5E          59  0144 UP     ES3V          59   003 RP    
+QSO:  7166 PH 2022-01-09 0810 SE5E          59  0145 UP     LB1R          59   026 VF    
+QSO:  7166 PH 2022-01-09 0811 SE5E          59  0146 UP     YL2TD         59   026 RR    
+QSO:  7166 PH 2022-01-09 0811 SE5E          59  0147 UP     ES5NHC        59   062 TA    
+QSO:  7166 PH 2022-01-09 0811 SE5E          59  0148 UP     OG5O          59   070 UU    
+QSO:  7166 PH 2022-01-09 0812 SE5E          59  0149 UP     LY0NAS        59   053 PA    
+QSO:  7166 PH 2022-01-09 0812 SE5E          59  0150 UP     LY6A          59   138 KN    
+QSO:  7166 PH 2022-01-09 0813 SE5E          59  0151 UP     LA9RY         59   012 RL    
+QSO:  7166 PH 2022-01-09 0814 SE5E          59  0152 UP     OH8NW         59   136 VA    
+QSO:  7166 PH 2022-01-09 0814 SE5E          59  0153 UP     ES2GW         59   062 HR    
+QSO:  7097 PH 2022-01-09 0815 SE5E          59  0154 UP     ES5TV         59   220 JG    
+QSO:  7168 PH 2022-01-09 0816 SE5E          59  0155 UP     OZ1ADL        59   137 VJ    
+QSO:  7146 PH 2022-01-09 0816 SE5E          59  0156 UP     LY1FW         59   140 MM    
+QSO:  7099 PH 2022-01-09 0817 SE5E          59  0157 UP     YL2SM         59   161 AU    
+QSO:  7130 PH 2022-01-09 0817 SE5E          59  0158 UP     LY1LB         59   092 KN    
+QSO:  7079 PH 2022-01-09 0818 SE5E          59  0159 UP     LY2MM         59   120 KM    
+QSO:  7137 PH 2022-01-09 0818 SE5E          59  0160 UP     YL2GD         59   166 AU    
+QSO:  7158 PH 2022-01-09 0819 SE5E          59  0161 UP     LC1R          59   128 TR    
+QSO:  7073 PH 2022-01-09 0819 SE5E          59  0162 UP     OH3Z          59   163 VA    
+QSO:  7166 PH 2022-01-09 0821 SE5E          59  0163 UP     YL2PJ         59   147 RE    
+QSO:  7189 PH 2022-01-09 0822 SE5E          59  0164 UP     ES7A          59   142 VP    
+QSO:  7192 PH 2022-01-09 0823 SE5E          59  0165 UP     LY5DD         59   063 MM    
+QSO:  7152 PH 2022-01-09 0824 SE5E          59  0166 UP     LB6VI         59   028 TR    
+QSO:  7150 PH 2022-01-09 0824 SE5E          59  0167 UP     LY2CX         59   147 KI    
+QSO:  7139 PH 2022-01-09 0825 SE5E          59  0168 UP     YL2BJ         59   167 VR    
+QSO:  7135 PH 2022-01-09 0826 SE5E          59  0169 UP     YL3GQ         59   058 JE    
+QSO:  7135 PH 2022-01-09 0826 SE5E          59  0170 UP     YL5W          59   105 BV    
+QSO:  7135 PH 2022-01-09 0827 SE5E          59  0171 UP     OV3C          59   047 KH    
+QSO:  7135 PH 2022-01-09 0828 SE5E          59  0172 UP     OZ1KKH        59   045 VJ    
+QSO:  7149 PH 2022-01-09 0829 SE5E          59  0173 UP     LY2TS         59   133 TI    
+QSO:  7135 PH 2022-01-09 0829 SE5E          59  0174 UP     OZ1XV         59   022 VS    
+END-OF-LOG:

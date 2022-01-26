@@ -1,0 +1,102 @@
+START-OF-LOG: 3.0
+CREATED-BY: Win-Test 4.35.0
+CONTEST: NRAU-BALTIC-SSB
+CALLSIGN: OG5O
+CATEGORY: CHECKLOG
+CLAIMED-SCORE: 0
+OPERATORS: OG55W
+NAME: Keijo
+SOAPBOX: 
+QSO:  3702 PH 2022-01-09 0659 OG5O          59  0001 UU     YL2GD         59   058 AU    
+QSO:  3709 PH 2022-01-09 0700 OG5O          59  0002 UU     ES1BH         59   023 TL    
+QSO:  3711 PH 2022-01-09 0701 OG5O          59  0003 UU     OZ8DK         59   015 VJ    
+QSO:  3718 PH 2022-01-09 0703 OG5O          59  0004 UU     ES2MC         59   082 HR    
+QSO:  3721 PH 2022-01-09 0703 OG5O          59  0005 UU     LY6A          59   047 KN    
+QSO:  3724 PH 2022-01-09 0704 OG5O          59  0006 UU     OH3Z          59   051 VA    
+QSO:  3727 PH 2022-01-09 0705 OG5O          59  0007 UU     OH2KI         59   062 KT    
+QSO:  3735 PH 2022-01-09 0706 OG5O          59  0008 UU     OH2KW         59   029 UU    
+QSO:  3737 PH 2022-01-09 0707 OG5O          59  0009 UU     OH8L          59   043 PP    
+QSO:  3741 PH 2022-01-09 0707 OG5O          59  0010 UU     ES8GP         59   062 PU    
+QSO:  3744 PH 2022-01-09 0708 OG5O          59  0011 UU     YL2KO         59   088 AU    
+QSO:  3701 PH 2022-01-09 0710 OG5O          59  0012 UU     LY4G          59   059 PN    
+QSO:  3610 PH 2022-01-09 0711 OG5O          59  0013 UU     ES6RMR        59   011 VC    
+QSO:  3613 PH 2022-01-09 0713 OG5O          59  0014 UU     OH6RE         59   045 KE    
+QSO:  3623 PH 2022-01-09 0714 OG5O          59  0015 UU     LY2TS         59   052 TI    
+QSO:  3631 PH 2022-01-09 0714 OG5O          59  0016 UU     ES5NHC        59   028 TA    
+QSO:  3637 PH 2022-01-09 0715 OG5O          59  0017 UU     ES7GM         59   096 VP    
+QSO:  3650 PH 2022-01-09 0716 OG5O          59  0018 UU     SE5E          59   068 UP    
+QSO:  3713 PH 2022-01-09 0716 OG5O          59  0019 UU     YL2SM         59   076 AU    
+QSO:  3734 PH 2022-01-09 0717 OG5O          59  0020 UU     LY1FW         59   059 MM    
+QSO:  3744 PH 2022-01-09 0718 OG5O          59  0021 UU     LY2AX         59   078 KN    
+QSO:  3749 PH 2022-01-09 0719 OG5O          59  0022 UU     OH2PM         59   056 VA    
+QSO:  3751 PH 2022-01-09 0719 OG5O          59  0023 UU     OH8X          59   088 PP    
+QSO:  3753 PH 2022-01-09 0720 OG5O          59  0024 UU     YL2BJ         59   084 VR    
+QSO:  3756 PH 2022-01-09 0721 OG5O          59  0025 UU     OH1F          59   083 SA    
+QSO:  3759 PH 2022-01-09 0721 OG5O          59  0026 UU     YL9T          59   085 VK    
+QSO:  3763 PH 2022-01-09 0722 OG5O          59  0027 UU     SM2M          59   077 VB    
+QSO:  7131 PH 2022-01-09 0725 OG5O          59  0028 UU     ES7GM         59   115 VP    
+QSO:  7141 PH 2022-01-09 0727 OG5O          59  0029 UU     LY5T          59   030 AT    
+QSO:  7143 PH 2022-01-09 0728 OG5O          59  0030 UU     LA7AK         59   027 RL    
+QSO:  3636 PH 2022-01-09 0730 OG5O          59  0031 UU     YL7A          59   087 VK    
+QSO:  3723 PH 2022-01-09 0730 OG5O          59  0032 UU     LC1R          59   058 TR    
+QSO:  3619 PH 2022-01-09 0731 OG5O          59  0033 UU     YL7X          59   105 KG    
+QSO:  3700 PH 2022-01-09 0732 OG5O          59  0034 UU     SK5A          59   079 VM    
+QSO:  3703 PH 2022-01-09 0733 OG5O          59  0035 UU     OH2BU         59   021 UU    
+QSO:  3742 PH 2022-01-09 0734 OG5O          59  0036 UU     LY3NI         59   063 UT    
+QSO:  3737 PH 2022-01-09 0735 OG5O          59  0037 UU     YL1ZF         59   050 RR    
+QSO:  3728 PH 2022-01-09 0736 OG5O          59  0038 UU     YL2QV         59   045 JP    
+QSO:  3608 PH 2022-01-09 0737 OG5O          59  0039 UU     SA1CCQ        59   079 GO    
+QSO:  7148 PH 2022-01-09 0741 OG5O          59  0040 UU     ES2MC         59   137 HR    
+QSO:  7163 PH 2022-01-09 0742 OG5O          59  0041 UU     YL9T          59   106 VK    
+QSO:  7136 PH 2022-01-09 0742 OG5O          59  0042 UU     YL3JA         59   109 TU    
+QSO:  7161 PH 2022-01-09 0743 OG5O          59  0043 UU     YL2KO         59   134 AU    
+QSO:  7141 PH 2022-01-09 0744 OG5O          59  0044 UU     LY3BN         59   089 KN    
+QSO:  7146 PH 2022-01-09 0746 OG5O          59  0045 UU     LY1FW         59   086 MM    
+QSO:  7154 PH 2022-01-09 0746 OG5O          59  0046 UU     ES6RMR        59   077 VC    
+QSO:  7165 PH 2022-01-09 0748 OG5O          59  0047 UU     YL2BJ         59   123 VR    
+QSO:  7169 PH 2022-01-09 0748 OG5O          59  0048 UU     LY5DD         59   046 MM    
+QSO:  7172 PH 2022-01-09 0749 OG5O          59  0049 UU     OZ30EU        59   090 BH    
+QSO:  7176 PH 2022-01-09 0751 OG5O          59  0050 UU     SK5A          59   102 VM    
+QSO:  7174 PH 2022-01-09 0752 OG5O          59  0051 UU     LY5XX         59   093 MM    
+QSO:  7069 PH 2022-01-09 0755 OG5O          59  0052 UU     LY6A          59   119 KN    
+QSO:  7087 PH 2022-01-09 0756 OG5O          59  0053 UU     LY4A          59   162 SU    
+QSO:  7090 PH 2022-01-09 0757 OG5O          59  0054 UU     OZ5W          59   099 VS    
+QSO:  7094 PH 2022-01-09 0757 OG5O          59  0055 UU     LC6C          59   052 HO    
+QSO:  7194 PH 2022-01-09 0759 OG5O          59  0056 UU     SM5ACQ        59   068 VM    
+QSO:  7082 PH 2022-01-09 0759 OG5O          59  0057 UU     YL2VW         59   121 RR    
+QSO:  7182 PH 2022-01-09 0759 OG5O          59  0058 UU     LY2BKT        59   102 SI    
+QSO:  7197 PH 2022-01-09 0801 OG5O          59  0059 UU     OH8X          59   134 PP    
+QSO:  7188 PH 2022-01-09 0801 OG5O          59  0060 UU     LY9A          59   133 PA    
+QSO:  7181 PH 2022-01-09 0802 OG5O          59  0061 UU     YL7X          59   153 KG    
+QSO:  7169 PH 2022-01-09 0803 OG5O          59  0062 UU     LC0X          59   032 IN    
+QSO:  7073 PH 2022-01-09 0804 OG5O          59  0063 UU     OH3Z          59   136 VA    
+QSO:  7079 PH 2022-01-09 0804 OG5O          59  0064 UU     YL5W          59   087 BV    
+QSO:  7168 PH 2022-01-09 0805 OG5O          59  0065 UU     OZ1ADL        59   119 VJ    
+QSO:  7166 PH 2022-01-09 0805 OG5O          59  0066 UU     LY2AX         59   127 KN    
+QSO:  7153 PH 2022-01-09 0806 OG5O          59  0067 UU     LY7M          59   162 UT    
+QSO:  7158 PH 2022-01-09 0808 OG5O          59  0068 UU     LC1R          59   104 TR    
+QSO:  7192 PH 2022-01-09 0810 OG5O          59  0069 UU     OH8UV         59   077 PP    
+QSO:  7166 PH 2022-01-09 0811 OG5O          59  0070 UU     SE5E          59   128 UP    
+QSO:  7185 PH 2022-01-09 0813 OG5O          59  0071 UU     OH8L          59   138 PP    
+QSO:  7137 PH 2022-01-09 0814 OG5O          59  0072 UU     YL2GD         59   154 AU    
+QSO:  7097 PH 2022-01-09 0815 OG5O          59  0073 UU     ES5TV         59   219 JG    
+QSO:  7099 PH 2022-01-09 0815 OG5O          59  0074 UU     YL2SM         59   155 AU    
+QSO:  7144 PH 2022-01-09 0816 OG5O          59  0075 UU     LY2XW         59   141 UT    
+QSO:  7083 PH 2022-01-09 0817 OG5O          59  0076 UU     SA1CCQ        59   105 GO    
+QSO:  7079 PH 2022-01-09 0817 OG5O          59  0077 UU     LY2MM         59   118 KM    
+QSO:  7153 PH 2022-01-09 0819 OG5O          59  0078 UU     LY5GT         59   079 VV    
+QSO:  7153 PH 2022-01-09 0819 OG5O          59  0079 UU     LY4Q          59   138 KN    
+QSO:  7153 PH 2022-01-09 0820 OG5O          59  0080 UU     ES5NY         59   065 JG    
+QSO:  7153 PH 2022-01-09 0821 OG5O          59  0081 UU     LB1R          59   031 VF    
+QSO:  7153 PH 2022-01-09 0821 OG5O          59  0082 UU     YL7A          59   139 VK    
+QSO:  7153 PH 2022-01-09 0822 OG5O          59  0083 UU     OH2T          59   111 UU    
+QSO:  7153 PH 2022-01-09 0823 OG5O          59  0084 UU     YL2NK         59   083 LI    
+QSO:  7153 PH 2022-01-09 0823 OG5O          59  0085 UU     LY4G          59   131 PN    
+QSO:  7153 PH 2022-01-09 0824 OG5O          59  0086 UU     ES6RBX        59   023 PL    
+QSO:  7153 PH 2022-01-09 0824 OG5O          59  0087 UU     YL2KN         59   059 AU    
+QSO:  7154 PH 2022-01-09 0827 OG5O          59  0088 UU     OH1F          59   174 SA    
+QSO:  7149 PH 2022-01-09 0827 OG5O          59  0089 UU     LY2TS         59   131 TI    
+QSO:  7150 PH 2022-01-09 0828 OG5O          59  0090 UU     LY2CX         59   161 KI    
+QSO:  7193 PH 2022-01-09 0829 OG5O          59  0091 UU     LY5YY         59   109 KM    
+QSO:  7065 PH 2022-01-09 0829 OG5O          59  0092 UU     LA1TV         59   104 VF    
+END-OF-LOG:
