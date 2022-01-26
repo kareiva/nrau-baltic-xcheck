@@ -26,7 +26,7 @@ NUM_FILES = 0
 NUM_MISTAKES = 0
 LOG_EXT = ".txt"
 UBN_EXT = ".ubn"
-MAX_MINUTE_DELTA = 3
+MAX_MINUTE_DELTA = 5
 shadow_stations = {}
 
 my_lookuplib = LookupLib(lookuptype="countryfile")
