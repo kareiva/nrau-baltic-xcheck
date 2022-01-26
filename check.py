@@ -15,7 +15,7 @@
 import os
 import sys
 import json
-from datetime import date
+from datetime import datetime, timedelta
 from pyhamtools import LookupLib, Callinfo
 from cabrillo.parser import QSO, parse_log_file
 
@@ -27,6 +27,8 @@ NUM_MISTAKES = 0
 LOG_EXT = ".txt"
 UBN_EXT = ".ubn"
 MAX_MINUTE_DELTA = 5
+PH_CONTEST_START = "2022-01-09 06:30:00"
+CW_CONTEST_START = "2022-01-09 09:00:00"
 shadow_stations = {}
 
 my_lookuplib = LookupLib(lookuptype="countryfile")
@@ -149,6 +151,15 @@ def match_time(date1, date2):
     return True
 
 
+def match_time_window(date):
+    global PH_CONTEST_START, CW_CONTEST_START
+    ph_time = datetime.strptime(PH_CONTEST_START, "%Y-%m-%d %H:%M:%S")
+    cw_time = datetime.strptime(CW_CONTEST_START, "%Y-%m-%d %H:%M:%S")
+    return (ph_time <= date < ph_time + timedelta(hours=2)) or (
+        cw_time <= date < cw_time + timedelta(hours=2)
+    )
+
+
 def match_nrau(contest, my_qso, other_callsign, log, run=1):
     my_freq = int(my_qso.freq)
     if not other_callsign in contest:
@@ -192,6 +203,10 @@ def match_nrau(contest, my_qso, other_callsign, log, run=1):
         or my_freq == 7000
     ):
         log.write("0\t(PH QSO frequency {:d} out of contest band)".format(my_freq))
+        return 0
+
+    if not match_time_window(my_qso.date):
+        log.write("0\t(QSO logged outside contest time)".format(my_qso.date))
         return 0
 
     if not match_time(my_qso.date, other_qso.date):
