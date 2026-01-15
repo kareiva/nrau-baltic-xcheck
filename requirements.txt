@@ -1,2 +1,2 @@
-cabrillo
+cabrillo==0.1.0
 pyhamtools
