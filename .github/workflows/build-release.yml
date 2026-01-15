@@ -5,9 +5,10 @@ on:
     types: [created]
   workflow_dispatch:
     inputs:
-      tag:
-        description: 'Release tag (optional, for manual builds)'
+      version:
+        description: 'Version tag (e.g., v1.0.0)'
         required: false
+        default: 'dev'
 
 jobs:
   build:
@@ -15,17 +16,27 @@ jobs:
       matrix:
         include:
           - os: ubuntu-latest
-            artifact_name: nrau-checker-linux
-            asset_name: nrau-checker-linux
+            build_name: nrau-checker-linux
+            extension: ""
           - os: windows-latest
-            artifact_name: nrau-checker-windows.exe
-            asset_name: nrau-checker-windows.exe
+            build_name: nrau-checker-windows
+            extension: ".exe"
 
     runs-on: ${{ matrix.os }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Determine version
+        id: version
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" == "release" ]; then
+            echo "version=${{ github.event.release.tag_name }}" >> $GITHUB_OUTPUT
+          else
+            echo "version=${{ github.event.inputs.version }}" >> $GITHUB_OUTPUT
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,7 +52,7 @@ jobs:
       - name: Build executable (Linux)
         if: matrix.os == 'ubuntu-latest'
         run: |
-          pyinstaller --onefile --windowed --name ${{ matrix.artifact_name }} \
+          pyinstaller --onefile --windowed --name ${{ matrix.build_name }} \
             --add-data "counties.json:." \
             --collect-data pyhamtools \
             --hidden-import pyhamtools.locator \
@@ -50,22 +61,28 @@ jobs:
       - name: Build executable (Windows)
         if: matrix.os == 'windows-latest'
         run: |
-          pyinstaller --onefile --windowed --name ${{ matrix.artifact_name }} `
+          pyinstaller --onefile --windowed --name ${{ matrix.build_name }} `
             --add-data "counties.json;." `
             --collect-data pyhamtools `
             --hidden-import pyhamtools.locator `
             gui.py
 
+      - name: Rename with version
+        shell: bash
+        run: |
+          mv "dist/${{ matrix.build_name }}${{ matrix.extension }}" \
+             "dist/${{ matrix.build_name }}-${{ steps.version.outputs.version }}${{ matrix.extension }}"
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ matrix.asset_name }}
-          path: dist/${{ matrix.artifact_name }}
+          name: ${{ matrix.build_name }}-${{ steps.version.outputs.version }}${{ matrix.extension }}
+          path: dist/${{ matrix.build_name }}-${{ steps.version.outputs.version }}${{ matrix.extension }}
 
       - name: Upload to Release
         if: github.event_name == 'release'
         uses: softprops/action-gh-release@v1
         with:
-          files: dist/${{ matrix.artifact_name }}
+          files: dist/${{ matrix.build_name }}-${{ steps.version.outputs.version }}${{ matrix.extension }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
