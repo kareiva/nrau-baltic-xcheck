@@ -43,6 +43,8 @@ jobs:
         run: |
           pyinstaller --onefile --windowed --name ${{ matrix.artifact_name }} \
             --add-data "counties.json:." \
+            --collect-data pyhamtools \
+            --hidden-import pyhamtools.locator \
             gui.py
 
       - name: Build executable (Windows)
@@ -50,6 +52,8 @@ jobs:
         run: |
           pyinstaller --onefile --windowed --name ${{ matrix.artifact_name }} `
             --add-data "counties.json;." `
+            --collect-data pyhamtools `
+            --hidden-import pyhamtools.locator `
             gui.py
 
       - name: Upload artifact
