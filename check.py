@@ -344,22 +344,27 @@ def results_to_csv(results):
         )
 
 
-cw_path = "./CW/"
-ph_path = "./PH/"
+def main():
+    global counties
+    cw_path = "./CW/"
+    ph_path = "./PH/"
 
-counties = read_counties()
+    counties = read_counties()
 
-cw_results = loop_all(cw_path)
-ph_results = loop_all(ph_path)
+    cw_results = loop_all(cw_path)
+    ph_results = loop_all(ph_path)
+
+    print_csv_header()
+    results_to_csv(cw_results)
+    results_to_csv(ph_results)
+
+    print(
+        "{:d} QSO parsed ({:d} files), found {:d} mistakes".format(
+            NUM_QSO, NUM_FILES, NUM_MISTAKES
+        ),
+        file=sys.stderr,
+    )
 
 
-print_csv_header()
-results_to_csv(cw_results)
-results_to_csv(ph_results)
-
-print(
-    "{:d} QSO parsed ({:d} files), found {:d} mistakes".format(
-        NUM_QSO, NUM_FILES, NUM_MISTAKES
-    ),
-    file=sys.stderr,
-)
+if __name__ == "__main__":
+    main()

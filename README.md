@@ -2,6 +2,8 @@
 
 ## Welcome
 
+![GUI](gui.png)
+
 This robot is capable of cross-checking the NRAU-Baltic ham radio contest logs for basic 
 rule violations.
 
@@ -20,6 +22,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+GUI application: run the `gui.py` app. Load CW and PH logs, validate and export results as CSV.
 
 Run the `check.py` script and for each submitted participant log file, it will generate an error
 report and place it in the respective folder (`CW` or `PH`)
