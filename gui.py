@@ -7,6 +7,8 @@ A graphical interface for cross-checking NRAU-Baltic ham radio contest logs.
 """
 
 import os
+import sys
+import json
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from dataclasses import dataclass, field
@@ -14,7 +16,6 @@ from typing import List, Dict, Optional
 from datetime import datetime, timedelta
 
 from check import (
-    read_counties,
     read_logs,
     find_qso,
     match_time,
@@ -22,6 +23,24 @@ from check import (
     cic,
     MAX_MINUTE_DELTA,
 )
+
+
+def get_resource_path(filename: str) -> str:
+    """Get the path to a resource file, handling PyInstaller frozen executables."""
+    if getattr(sys, 'frozen', False):
+        # Running as compiled executable
+        base_path = sys._MEIPASS
+    else:
+        # Running as script
+        base_path = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(base_path, filename)
+
+
+def read_counties_gui() -> dict:
+    """Read counties.json from the correct location."""
+    counties_path = get_resource_path("counties.json")
+    with open(counties_path) as f:
+        return json.load(f)
 
 
 @dataclass
@@ -291,7 +310,7 @@ class NRAUCheckerGUI:
 
         # Load counties
         try:
-            self.counties = read_counties()
+            self.counties = read_counties_gui()
         except Exception as e:
             messagebox.showerror("Error", f"Failed to load counties.json: {e}")
 
